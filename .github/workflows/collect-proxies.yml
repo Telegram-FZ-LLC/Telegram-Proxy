@@ -2,7 +2,7 @@ name: Collect Telegram Proxies
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # каждые 6 часов
+    - cron: '0 */1 * * *'  # каждый 1 час
   workflow_dispatch:         # ручной запуск
 
 permissions:
