@@ -1,0 +1,34 @@
+name: Collect Telegram Proxies
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # каждые 6 часов
+  workflow_dispatch:         # ручной запуск
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run collector
+        run: python scripts/collect_proxies.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add proxies.txt
+          git diff --cached --quiet || git commit -m "Update proxies $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
