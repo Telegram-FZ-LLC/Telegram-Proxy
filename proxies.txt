@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-04-07 10:55 UTC
-# Total: 41
+# Telegram Proxies — updated 2026-04-07 11:45 UTC
+# Total: 37
 
 tg://proxy?server=167.86.81.232&port=443&secret=ee225f29b78fa2a218d8bd70158e9ecc2c636c6f7564666c6172652e636f6d
 tg://proxy?server=173.212.245.154&port=443&secret=ee887896e32705c777dbc6741c11069fde636c6f7564666c6172652e636f6d
@@ -12,7 +12,6 @@ tg://proxy?server=207.180.195.37&port=443&secret=eedfa08dad56087f585c3948423aba9
 tg://proxy?server=207.180.240.199&port=443&secret=eea53b6e987fc7b16bb71bff869731448e636c6f7564666c6172652e636f6d
 tg://proxy?server=212.233.74.109&port=443&secret=eedb3fe4bf0ed595882e36d26015268f346d61782e7275
 tg://proxy?server=45.136.125.44&port=443&secret=7vDTLIF_JxbGno2vU4HEHEJ3d3cuZ29vZ2xlLmNvbQ
-tg://proxy?server=51.250.17.20&port=443&secret=0b40e95e35e50d449ea341aaeb375109
 tg://proxy?server=62.60.153.149&port=8443&secret=eeafcf3caecbc3ec3818a3f00189c171db77696b6970656469612e6f7267
 tg://proxy?server=68.209.58.149&port=443&secret=7jFMSRrub9JuyovG5wb7BUJtYWlsLnJ1
 tg://proxy?server=84.201.169.90&port=443&secret=ee387cc39e6784d06b17cc32354e92bfe66164732e78352e7275
@@ -30,9 +29,7 @@ tg://proxy?server=FAST.tgsecurity.online&port=443&secret=ee7c5d4e1f2a3b9c8d7e6f5
 tg://proxy?server=charlie.freetelega.me&port=8443&secret=eec2eec77016252e334767f27d5b208fb27265672e7275
 tg://proxy?server=cintiabot.duckdns.org&port=8443&secret=faec0dfe42eb966f1ebf85e262b9130e
 tg://proxy?server=clickproxy.online&port=443&secret=ee79612e7275e8e3100d7adf36efa572
-tg://proxy?server=gate-nl.malenia.space&port=5090&secret=7901a92091343716acb093c5a304a3d9
 tg://proxy?server=proxium.rest&port=443&secret=a665a45920422f9d417e4867efdc4fb8
-tg://proxy?server=proxy-tube.duckdns.org&port=443&secret=ee47d8b029af97e26480fccc7ab5cf83a170726f78792d747562652e6475636b646e732e6f7267
 tg://proxy?server=proxytelega.store&port=443&secret=5d41402abc4b2a76b9719d911017c592
 tg://proxy?server=proxytop.space&port=443&secret=7d793037a0760186574b0282f2f435e7
 tg://proxy?server=prx.today&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
@@ -40,5 +37,4 @@ tg://proxy?server=psql.s1nqq.fun&port=5432&secret=0e5360aecceecd4c27f7acd6aa79a7
 tg://proxy?server=rkn.tg&port=1337&secret=dda2d3fa639a6ddcf8d6d1c5913d001531
 tg://proxy?server=s3.neo-trading.org&port=443&secret=eec3fefd89a25d37ca3af1a602c7bfd8de79612e7275
 tg://proxy?server=s4.neo-trading.org&port=443&secret=ee181e2ad5e63c27262781187f2dedc4bb79612e7275
-tg://proxy?server=tgproxy.akter-black.com&port=443&secret=7rT1O880qyLkS87oCTEy0C50Z3Byb3h5LmFrdGVyLWJsYWNrLmNvbQ
 tg://proxy?server=tspico.siblin.org&port=443&secret=eeb4a93852bf9d5d3ebb93e435e13a2c85626979736b32322e7275
