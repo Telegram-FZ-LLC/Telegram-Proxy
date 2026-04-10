@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-04-10 04:39 UTC
-# Total: 29
+# Telegram Proxies — updated 2026-04-10 06:26 UTC
+# Total: 30
 
 tg://proxy?server=136.244.109.78&port=8443&secret=eecf6ad6e4f27809043ee93b578fc71947646c2e676f6f676c652e636f6d
 tg://proxy?server=138.124.32.130&port=443&secret=f36a968b7b96f0e406d535aaccd7c3a7
@@ -27,6 +27,7 @@ tg://proxy?server=bestproxy.ink&port=443&secret=ee7d793037a0760186574b0282f2f435
 tg://proxy?server=ip4.mtproxyserver.site&port=443&secret=ee2859e36fbc4d8ebcb3bcf78170b8d98c77622e7275
 tg://proxy?server=proxydlyavseh.sbs&port=443&secret=2cf24dba5fb0a30e26e83b2ac5b9e29e
 tg://proxy?server=proxytop.space&port=443&secret=7d793037a0760186574b0282f2f435e7
+tg://proxy?server=proxytop.space&port=443&secret=eee3b0c44298fc1c149afbf4c8996fb92470726f7879746f702e7370616365
 tg://proxy?server=s1.neo-trading.org&port=443&secret=ee17b59d905a546c7bf7355cf95c4ecfed79612e7275
 tg://proxy?server=s2.neo-trading.org&port=443&secret=ee50a0c99bdb7370565b7d74d4d362e27f79612e7275
 tg://proxy?server=tor.krotmonstr.online&port=443&&port=443&secret=eedded7190820caa75bc8d20cf9be339247777772e676f6f676c652e636f6d
