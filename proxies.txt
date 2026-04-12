@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-04-12 13:53 UTC
-# Total: 23
+# Telegram Proxies — updated 2026-04-12 14:33 UTC
+# Total: 27
 
 tg://proxy?server=144.31.107.156&port=443&secret=ee3715f2cf4df9dce58a59aafbc68d13e774726176656c2e79616e6465782e7275
 tg://proxy?server=178.18.248.188&port=443&secret=ee4bb5230f72689fed962d818fac46923f636c6f7564666c6172652e636f6d
@@ -8,6 +8,8 @@ tg://proxy?server=192.144.15.229&port=443&secret=ee095b4c07061fa18ae9374091be8a8
 tg://proxy?server=194.163.128.208&port=443&secret=eeb5f3d79235638f620aa45da0bd1a07de636c6f7564666c6172652e636f6d
 tg://proxy?server=194.163.135.91&port=443&secret=ee40a06fa63aa5282ca813445f2fed1eeb636c6f7564666c6172652e636f6d
 tg://proxy?server=194.163.143.211&port=443&secret=ee49c11be00962c867f93716b5825a387f636c6f7564666c6172652e636f6d
+tg://proxy?server=194.163.166.32&port=443&secret=eef085ba54f0dfb78fcb714f653f0011f5636c6f7564666c6172652e636f6d
+tg://proxy?server=194.163.171.96&port=443&secret=ee3d7bf0e971d77085537fb81feae0df01636c6f7564666c6172652e636f6d
 tg://proxy?server=2.27.63.122&port=443&secret=ee8ea45cc5f29a0e7464d88e9ff9c0e9fa72696a6b736f766572686569642e6e6c
 tg://proxy?server=217.60.36.233&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
 tg://proxy?server=217.60.36.37&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
@@ -15,10 +17,12 @@ tg://proxy?server=31.58.76.4&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6
 tg://proxy?server=31.59.103.64&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
 tg://proxy?server=45-15-128-185.sslip.io&port=332&secret=7tELwNoHJN9nF29zpdvxAE93d3cuZ29vZ2xlLmNvbQ
 tg://proxy?server=91.132.142.236&port=443&secret=ee8f9386d30b11c72ac0b2225742c85694657870657269656e63652e74726970737465722e7275
-tg://proxy?server=95.217.28.150&port=45321&secret=ee104462821249bd7ac519130220c25d096d61782e7275
 tg://proxy?server=connect.rebelworldwide.online&port=2096&secret=0b4b570140af218753e8980c963f091a
 tg://proxy?server=exact.begoodtunnel.su&port=443&secret=eed802c58b0133cc8db3c6880bab5308c165786163742e6265676f6f6474756e6e656c2e7375
 tg://proxy?server=flint3de6-c07c0599.proxytg.ink&port=443&secret=a8e84b0bdd918ad1aa18e8380b24690a
+tg://proxy?server=freeon.name&port=8443&secret=eeed1a5a7f339b8ff9840d52df123829706164732e78352e7275
+tg://proxy?server=mt.0xl1r.cfd&port=443&secret=a1f31ce5039ccb8331e906d5ab00a317
+tg://proxy?server=mt.space-link.cloud&port=443&secret=eeee09513d515ee0c9ab950eb3698a1b0e6d742e73706163652d6c696e6b2e636c6f7564
 tg://proxy?server=mtprox.saursvepur.xyz&port=443&secret=ee000000000000000000000001000f000c7370622e6c656d616e6170726f2e7275
 tg://proxy?server=proxlet.site&port=443&secret=8d969eef6ecad3c29a3a629280e686cf
 tg://proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a36ceadd9bbedd919fbd9f1c9387dd
