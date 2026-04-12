@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-04-12 01:28 UTC
-# Total: 22
+# Telegram Proxies — updated 2026-04-12 04:39 UTC
+# Total: 23
 
 tg://proxy?server=164.68.115.239&port=443&secret=ee6200185881f9ca8015f8ee1f1d102343636c6f7564666c6172652e636f6d
 tg://proxy?server=164.68.120.227&port=443&secret=ee97886115d3021360b6c86f077b384389636c6f7564666c6172652e636f6d
@@ -20,6 +20,7 @@ tg://proxy?server=95.81.99.255&port=49152&secret=eedd0fb32ba664b15a1b6eb1a53277f
 tg://proxy?server=five.proxyprosto.sbs&port=443&secret=ee5ebd2af5512770fc537a14dc2f40818877622e7275
 tg://proxy?server=free-proxy-03.duckdns.org&port=443&secret=ddea63ef94c511c297c68017f7d71ce1db
 tg://proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a36ceadd9bbedd919fbd9f1c9387dd
+tg://proxy?server=proxy.pushvpn.space&port=443&secret=ee27c7f948bc8c223e13ae240911e783ab7777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=sosalcraft.zapto.org&port=8443&secret=ddbc29fd4a9e787e07b7b1c93000f9d44a
 tg://proxy?server=tg.proxywing.net&port=443&secret=dd398e9112420ca2ad72bac8bfd851ff42
 tg://proxy?server=tggo.store&port=443&secret=7uzWmAwONp7D1ujd83Bwkr50Z2dvLnN0b3Jl
