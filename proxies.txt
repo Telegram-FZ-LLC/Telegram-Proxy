@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-04-15 06:27 UTC
-# Total: 27
+# Telegram Proxies — updated 2026-04-15 08:22 UTC
+# Total: 24
 
 tg://proxy?server=134.112.57.138&port=443&secret=dba39aa79f4e6b4366c98aa315cedb93
 tg://proxy?server=141.98.6.117&port=443&secret=ee69e899d89ec68e220ca177557322b27f72696a6b736f766572686569642e6e6c
@@ -9,18 +9,15 @@ tg://proxy?server=178.104.195.205&port=54921&secret=ee104462821249bd7ac519130220
 tg://proxy?server=185.167.61.147&port=443&secret=dd8288e60eed363bbc845b6bd77d81cabc
 tg://proxy?server=193.233.91.179&port=443&secret=ee39e91f7a897006fbac50cedbb52bec6967656e6f74656b2e7275
 tg://proxy?server=213.155.12.140&port=443&secret=7mnomdiexo4iDKF3VXMisn9zdHJveWFsbGlhbmNlLmNvbQ
-tg://proxy?server=213.226.124.186&port=443&secret=ee3b263e234adb9ea98fca40a0ec907d807777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=45-136-125-44.sslip.io&port=332&secret=7tMMu6Vv6kL_Sj3TJ1zRZ3F3d3cuZ29vZ2xlLmNvbQ
 tg://proxy?server=bestproxy.ink&port=443&secret=eed68360458af63073bac1394e8c7a48da6265737470726f78792e696e6b
 tg://proxy?server=free-nl.kimt.space&port=443&secret=ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365
 tg://proxy?server=free.kimt.space&port=443&secret=ee6d308bbd1b3b1fae56e334750ecf2f606164732e78352e7275
-tg://proxy?server=freetg.vip&port=8443&secret=ee27b79b6bde1c9e19eb4707c81e8b1137636c6f7564666c6172652e636f6d
 tg://proxy?server=fruktozka.space&port=443&secret=ee6d7433ac868119eb36e9c9d9bbbba346636c6f7564666c6172652e636f6d
 tg://proxy?server=furrow.goitrous.inefficacy.kaunas.unaided.pinoyteleseryehd.net&port=8950&secret=ee9c5c58f91ce1bb198dcc68037ea465
 tg://proxy?server=ger1.agera-connect.lol&port=443&secret=ee1378018235f440ce3cc21d689db275bc676572312e61676572612d636f6e6e6563742e6c6f6c
 tg://proxy?server=godslove.duckdns.org&port=443&secret=ee574297036dd8fbe56d3875e39f18aae67777772e636c6f7564666c6172652e636f6d683373616d2e73697465
 tg://proxy?server=insnapp.space&port=2053&secret=eeaac85835fb7d25b992ea0416b2ede075696e736e6170702e7370616365
-tg://proxy?server=mtproto.proxysoxy.com&port=8443&secret=eefd77b826e7505c142dc24f4fd87ee42c65682e766b2e636f6d
 tg://proxy?server=neth1.agera-connect.lol&port=443&secret=63ebfcafad3291239d6f94ec57ea5c38
 tg://proxy?server=oneproxys.best&port=443&secret=eed68360458af63073bac1394e8c7a48da6f6e6570726f7879732e62657374
 tg://proxy?server=proxyg.site&port=443&secret=eed68360458af63073bac1394e8c7a48da70726f7879672e73697465
