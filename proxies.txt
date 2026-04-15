@@ -1,10 +1,10 @@
-# Telegram Proxies — updated 2026-04-15 15:59 UTC
-# Total: 27
+# Telegram Proxies — updated 2026-04-15 17:05 UTC
+# Total: 30
 
+tg://proxy?server=103.27.156.249&port=443&secret=0fe140d8ca3d71244e749d452813ccbb
 tg://proxy?server=134.112.57.138&port=443&secret=dba39aa79f4e6b4366c98aa315cedb93
 tg://proxy?server=151.247.196.72&port=443&secret=eebfd6f2c074e99a71f1218eebaa156c376170706c652e636f6d
 tg://proxy?server=165.245.215.108&port=443&secret=ee4141322ba85f4966835bfffaa24f05
-tg://proxy?server=178.104.195.205&port=54921&secret=ee104462821249bd7ac519130220c25d096d61782e7275
 tg://proxy?server=185.179.83.26&port=443&secret=ddc844fd5dfe798923b22352ae03c00338
 tg://proxy?server=193.233.131.218&port=443&secret=eecbbb897d9679db431d054d99cc6d7b
 tg://proxy?server=2.27.4.58&port=443&secret=ee9d343635a76a38133c6d01e1c81f50cf706574726f766963682e7275
@@ -17,11 +17,14 @@ tg://proxy?server=31.220.76.169&port=443&secret=eedb527145eb548da774b24e6c11d020
 tg://proxy?server=31.220.77.123&port=443&secret=eedac749bb24f965a81b697e1418be00f2636c6f7564666c6172652e636f6d
 tg://proxy?server=31.220.78.93&port=443&secret=ee5fcec9b1bf68764858dcb930f393ee72636c6f7564666c6172652e636f6d
 tg://proxy?server=31.220.78.96&port=443&secret=ee3be8b0dd88684ce762b7a34def93044b636c6f7564666c6172652e636f6d
+tg://proxy?server=64.188.65.63&port=443&secret=14f9b82c38f7cc3f9f938277dc6c6038
 tg://proxy?server=65.109.127.34&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=65.109.61.31&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=bestproxy.ink&port=443&secret=eed68360458af63073bac1394e8c7a48da6265737470726f78792e696e6b
 tg://proxy?server=frhb90498flex.ikexpress.com&port=443&secret=ee5df55ec73ac44c90b83e29641e28fd26676f6f676c652e636f6d
 tg://proxy?server=furrow.goitrous.inefficacy.kaunas.unaided.pinoyteleseryehd.net&port=8950&secret=ee9c5c58f91ce1bb198dcc68037ea465
+tg://proxy?server=knoll0422-c522b2fb.proxytg.ink&port=443&secret=28ed0c814a97362df6fed7339922e795
+tg://proxy?server=nettle5e12-8aa8df11.proxytg.ink&port=443&secret=39682ffd39beefcc991d12c832866bca
 tg://proxy?server=oneproxys.best&port=443&secret=eed68360458af63073bac1394e8c7a48da6f6e6570726f7879732e62657374
 tg://proxy?server=proxy-v2-3.sapog-host.ru&port=443&secret=ee0b0535863e1462dabb9c9e00c5861d14726164696f7265636f72642e7275
 tg://proxy?server=prxtg.enterlancevpn.com&port=8443&secret=ee79612e7275c8d582e6565ef8a46786
