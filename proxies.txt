@@ -1,9 +1,8 @@
-# Telegram Proxies — updated 2026-04-16 15:18 UTC
-# Total: 33
+# Telegram Proxies — updated 2026-04-16 17:03 UTC
+# Total: 34
 
 tg://proxy?server=150.241.70.0&port=443&secret=eefd4933b3863b668128a246b6cb2249016170692d6d6170732e79616e6465782e7275
-tg://proxy?server=178.104.160.179&port=443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=178.104.202.42&port=9321&secret=ee104462821249bd7ac519130220c25d096d61696c2e7275
+tg://proxy?server=2.27.12.64&port=443&secret=eea9785d14b6e7254af5086de9d92945e574672e726b6e2e67757275
 tg://proxy?server=31.220.73.75&port=443&secret=ee15561483d7091829be01a81a8b550ea4636c6f7564666c6172652e636f6d
 tg://proxy?server=31.220.73.93&port=443&secret=eefd4d1b6a40aef75802cb6569f0615e11636c6f7564666c6172652e636f6d
 tg://proxy?server=31.220.75.141&port=443&secret=ee5bddeb17a67936f654c740e97bb4cad1636c6f7564666c6172652e636f6d
@@ -24,6 +23,7 @@ tg://proxy?server=FAST.tgsecurity.online&port=443&secret=ee7c5d4e1f2a3b9c8d7e6f5
 tg://proxy?server=brookb631-82e07f23.proxytg.ink&port=443&secret=f6fe059664c24962c99fbcc32553249e
 tg://proxy?server=five.proxyprosto.sbs&port=443&secret=ee5ebd2af5512770fc537a14dc2f40818877622e7275
 tg://proxy?server=godslovesyou.duckdns.org&port=443&secret=ee042868d671c9d2d3430732e44dbda0207777772e636c6f7564666c6172652e636f6d696d616765732e6170706c652e636f6d
+tg://proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d
 tg://proxy?server=mtp.xode.top&port=443&secret=eede18609544eb7fa267cf94735d320ac56d74702e786f64652e746f70
 tg://proxy?server=mtproto-de1.nolimited.space&port=443&secret=eefd4933b3863b668128a246b6cb2249016170692d6d6170732e79616e6465782e7275
 tg://proxy?server=proxy-sosavpn1.duckdns.org&port=8443&secret=bfb77f1c4bf8a5c16eb5a3c83954ce69
@@ -33,4 +33,5 @@ tg://proxy?server=proxyrknsosatb.site&port=443&secret=eed68360458af63073bac1394e
 tg://proxy?server=proxystepa.site&port=443&secret=eed68360458af63073bac1394e8c7a48da70726f787973746570612e73697465
 tg://proxy?server=red.coolsystem.xyz&port=1337&secret=dd123451234512345123451234512345ff
 tg://proxy?server=rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+tg://proxy?server=tg.rkn.guru&port=443&secret=eea9785d14b6e7254af5086de9d92945e574672e726b6e2e67757275
 tg://proxy?server=two.proxyprosto.sbs&port=443&secret=eece64a43e8c286ab95248a3a66429a8f377622e7275
