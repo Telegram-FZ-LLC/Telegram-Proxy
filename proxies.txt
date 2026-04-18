@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-04-18 06:07 UTC
+# Telegram Proxies — updated 2026-04-18 07:54 UTC
 # Total: 26
 
 tg://proxy?server=116.203.0.182&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -8,7 +8,7 @@ tg://proxy?server=2.26.54.168&port=443&secret=da3d7deef4c3124a17edd8423febf8f4
 tg://proxy?server=207.180.203.24&port=443&secret=7uBwJkgHh8uyF8nq_Te86VtzMy5hbWF6b25hd3MuY29t
 tg://proxy?server=31.220.75.103&port=443&secret=eef6b468d23668d5267209439974122f51636c6f7564666c6172652e636f6d
 tg://proxy?server=31.220.75.69&port=443&secret=ee5fe0d31d647e9361d614a609c5fdf2a6636c6f7564666c6172652e636f6d
-tg://proxy?server=34.51.247.46&port=443&secret=dddcd652f1b40bcee93adb08ac4df47c46
+tg://proxy?server=45.128.235.219&port=443&secret=4ae50768d6cdfc8c708fb81c7e582072
 tg://proxy?server=45.38.23.169&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
 tg://proxy?server=49.13.35.164&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=85.9.193.147&port=443&secret=ddd944d6ff91828998a095ea9b93ab7d93
@@ -21,8 +21,8 @@ tg://proxy?server=flowaccess.site&port=443&secret=eef8903ad50218ee7bcf4016f37825
 tg://proxy?server=freeroute.online&port=443&secret=eed68360458af63073bac1394e8c7a48da66726565726f7574652e6f6e6c696e65
 tg://proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d
 tg://proxy?server=mt.space-link.cloud&port=443&secret=eeee09513d515ee0c9ab950eb3698a1b0e6d742e73706163652d6c696e6b2e636c6f7564
-tg://proxy?server=prx.today&port=443&secret=eeb3f0c7f6af7dc2dc2e9c80d0d80e81627a65726f2e6c6f63616c
 tg://proxy?server=prxyhub.click&port=443&secret=eed68360458af63073bac1394e8c7a48da707278796875622e636c69636b
+tg://proxy?server=pvnexus.xyz&port=443&secret=eed68360458af63073bac1394e8c7a48da70766e657875732e78797a
 tg://proxy?server=rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=tg.wickready.pro&port=443&secret=eea2a7cbef6e3ed1d8d3e44d3c773c0cb679616e6465782e7275
 tg://proxy?server=try.beatvault.ru&port=443&secret=eef7500d69d0479eb1c90454490aa7096d64726976652e676f6f676c652e636f6d
