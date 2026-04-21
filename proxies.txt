@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-04-21 11:53 UTC
-# Total: 24
+# Telegram Proxies — updated 2026-04-21 13:00 UTC
+# Total: 23
 
 tg://proxy?server=109.120.185.156&port=443&secret=dd0cc6909522211ffc42c3c6cdb966e333
 tg://proxy?server=144.91.103.128&port=443&secret=eeaa903e37383f45634680557033e5bd71636c6f7564666c6172652e636f6d
@@ -11,17 +11,16 @@ tg://proxy?server=194.163.162.140&port=443&secret=ee77365696b6b2bcdbdb3f07241d46
 tg://proxy?server=194.163.176.31&port=443&secret=ee5ef4c4585425038d6a4cdad33fb89980636c6f7564666c6172652e636f6d
 tg://proxy?server=195.63.129.37&port=443&secret=eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275
 tg://proxy?server=2.26.101.98&port=443&secret=ee79612e72759919d926b370909e148e
-tg://proxy?server=2.27.12.64&port=443&secret=eea9785d14b6e7254af5086de9d92945e574672e726b6e2e67757275
 tg://proxy?server=207.180.202.202&port=443&secret=ee9c8da4841695d72114ce1347947f3a36636c6f7564666c6172652e636f6d
 tg://proxy?server=46.62.232.86&port=9832&secret=ee104462821249bd7ac519130220c25d096d61782e7275
 tg://proxy?server=89.124.98.190&port=443&secret=eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275
 tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=freeroute.online&port=443&secret=eed68360458af63073bac1394e8c7a48da66726565726f7574652e6f6e6c696e65
 tg://proxy?server=mtproxy.neverspy.online&port=443&secret=dde8653d2faf392a302d829d79537abbe7
+tg://proxy?server=proxy10-sosavpn.duckdns.org&port=8443&secret=bfb77f1c4bf8a5c16eb8a3c83954ce67
 tg://proxy?server=prxflow.live&port=443&secret=eed68360458af63073bac1394e8c7a48da707278666c6f772e6c697665
 tg://proxy?server=pvnexus.xyz&port=443&secret=eed68360458af63073bac1394e8c7a48da70766e657875732e78797a
 tg://proxy?server=rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275
-tg://proxy?server=tg.rkn.guru&port=443&secret=eea9785d14b6e7254af5086de9d92945e574672e726b6e2e67757275
 tg://proxy?server=tggo.store&port=443&secret=7uzWmAwONp7D1ujd83Bwkr50Z2dvLnN0b3Jl
 tg://proxy?server=tgp.hidara.me&port=7443&secret=ee6319c32d2a1751dbb48d8caae6b2d3bd7467702e6869646172612e6d65
