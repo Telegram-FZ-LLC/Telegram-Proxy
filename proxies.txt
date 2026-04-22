@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-04-22 01:26 UTC
-# Total: 25
+# Telegram Proxies — updated 2026-04-22 04:38 UTC
+# Total: 24
 
 tg://proxy?server=144.91.103.128&port=443&secret=eeaa903e37383f45634680557033e5bd71636c6f7564666c6172652e636f6d
 tg://proxy?server=168.222.254.174&port=443&secret=968cc5da3ebacdc3f0c99ba9e2d82d07
@@ -16,7 +16,6 @@ tg://proxy?server=46.62.219.0&port=4367&secret=ee104462821249bd7ac519130220c25d0
 tg://proxy?server=71a3067ecd02.sn.mynetname.net&port=7997&secret=ee4c670831e7ee84c7c3a287a2184181d8626979736b32322e7275
 tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=bella-cook.com&port=8443&secret=d33f64b4972fccdaaf6b9d4bc76c4ff9
-tg://proxy?server=freeroute.online&port=443&secret=eed68360458af63073bac1394e8c7a48da66726565726f7574652e6f6e6c696e65
 tg://proxy?server=mtproto-de2.nolimited.space&port=443&secret=eebdfa6443f1b57d30b232b9d1a05fb11c766b2e7275
 tg://proxy?server=mtproxy.neverspy.online&port=443&secret=dde8653d2faf392a302d829d79537abbe7
 tg://proxy?server=nl3.telegamtt.online&port=13443&secret=eef0b0fdb3c43bf80a7209598b0f1f876a7777772e6d6963726f736f66742e636f6d
