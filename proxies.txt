@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-04-23 01:44 UTC
-# Total: 25
+# Telegram Proxies — updated 2026-04-23 04:43 UTC
+# Total: 24
 
 tg://proxy?server=138.124.255.140&port=443&secret=ee499ae63085c1db81cccf337fc9507d8a706574726f766963682e7275
 tg://proxy?server=168.222.254.236&port=443&secret=1e7143ca2186934f892b7ec833ce209b
@@ -15,7 +15,6 @@ tg://proxy?server=45.120.179.45&port=443&secret=ee2ff2fa405512da428a05a3ca759ecd
 tg://proxy?server=5.189.181.70&port=443&secret=ee4e4aa044400ea1c2b73bcb46039dcc1a636c6f7564666c6172652e636f6d
 tg://proxy?server=5.42.118.83&port=443&secret=eee513dff4a549a7d2abaf35eb08b61dbe79616e6465782e7275
 tg://proxy?server=83.147.246.52&port=443&secret=7szORVm1Kffvn6krG7PT92p5YW5kZXgucnU
-tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=connect.0xl1r.cfd&port=853&secret=eea1f31ce5039ccb8331e906d5ab00a31777622e7275
 tg://proxy?server=dedicated.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=dr2.dedus.pro&port=443&secret=eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275
