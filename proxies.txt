@@ -1,6 +1,7 @@
-# Telegram Proxies — updated 2026-04-24 01:44 UTC
-# Total: 30
+# Telegram Proxies — updated 2026-04-24 04:47 UTC
+# Total: 31
 
+tg://proxy?server=04t24prom.mtproxygram.pro&port=443&secret=eebd8255eb75a87d6340ab4e18a84534e262726f777365722e79616e6465782e636f6d
 tg://proxy?server=132.243.213.194&port=443&secret=ee26ff9abd705551b3db5133e8a7a1e34e79616e6465782e7275
 tg://proxy?server=144.124.248.122&port=443&secret=93987494e34612b0676a8ca2a9638622
 tg://proxy?server=154.83.149.244&port=443&secret=ee1f508bc70833410039510389263624f379616e6465782e7472
@@ -9,6 +10,7 @@ tg://proxy?server=194.163.172.1&port=443&secret=ee189fa055d3d1084838047fd37a0f45
 tg://proxy?server=194.163.172.168&port=443&secret=eeb8798284526fa810d61ad46d79f9f785636c6f7564666c6172652e636f6d
 tg://proxy?server=2.27.86.91&port=443&secret=eee3ba5e814a7b81ef8d7608d18813913679616e6465782e7275
 tg://proxy?server=204.168.232.187&port=4312&secret=ee104462821249bd7ac519130220c25d097362657262616e6b2e7275
+tg://proxy?server=24mt04.mtproxygram.pro&port=443&secret=eeb9478b1b5090c520be20ced93d0e816a62726f777365722e79616e6465782e636f6d
 tg://proxy?server=45.12.150.4&port=443&secret=ee1e0a37878f593ee4c8aafe4143cbf160416d617a6f6e2e6573
 tg://proxy?server=50.7.41.140&port=443&secret=ee4171cd13a37543e2eb8ddaecf4531034706574726f766963682e7275
 tg://proxy?server=65.109.30.209&port=4455&secret=dd104462821249bd7ac519130220c25d09
@@ -18,7 +20,6 @@ tg://proxy?server=93.77.164.219&port=443&secret=7f3b2e9a5c8146d09a2f8b4e1d6c3a77
 tg://proxy?server=alo.axelotyl.fun&port=12443&secret=ee72756e2e6178656c6f74796c2e6675
 tg://proxy?server=anarchy.click&port=443&secret=ee7118c792a6da15636cc9753bf90cfc2d62726f777365722e79616e6465782e636f6d
 tg://proxy?server=brookad76-779bd845.proxytg.ink&port=443&secret=28ed0c814a97362df6fed7339922e795
-tg://proxy?server=gproxy-sosavpn.duckdns.org&port=8443&secret=bfb77f1c4bf8a5c89eb5a3c83954ce69
 tg://proxy?server=he.18.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
 tg://proxy?server=iloveasians.club&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
 tg://proxy?server=open.gpoint.website&port=443&secret=eec03f9d7666a41c33af662f5ba02604876f70656e2e67706f696e742e77656273697465
