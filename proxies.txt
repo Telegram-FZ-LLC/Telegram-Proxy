@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-04-25 10:34 UTC
+# Telegram Proxies — updated 2026-04-25 11:31 UTC
 # Total: 25
 
 tg://proxy?port=443&secret=ee03391d9e585b20ee18f588274347c2ff646c2e676f6f676c652e636f6d&server=188.137.254.117
@@ -7,7 +7,6 @@ tg://proxy?port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e676f6f676c6
 tg://proxy?port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e676f6f676c652e636f6d&server=85.208.186.59
 tg://proxy?server=168.222.254.175&port=443&secret=ec4fb4c5dd112ac95a0aaa51e1bd2745
 tg://proxy?server=168.222.254.235&port=443&secret=094873899b09916d9cbf2d97bad72be1
-tg://proxy?server=171.22.16.234&port=443&secret=ee70be37d188ae696def1e2c4f70fcfd7b7777772e676f6f676c652e636f6d
 tg://proxy?server=193.124.58.199&port=443&secret=eebaeff305618d976e05d4e1d113d249036769746875622e636f6d
 tg://proxy?server=46.226.166.175&port=443&secret=eec7e4c3d2dfb3c8a1107a8f684ac3b6d7766b2e636f6d
 tg://proxy?server=50.7.41.140&port=443&secret=ee4171cd13a37543e2eb8ddaecf4531034706574726f766963682e7275
@@ -26,3 +25,4 @@ tg://proxy?server=proxy.pushvpn.space&port=443&secret=ee27c7f948bc8c223e13ae2409
 tg://proxy?server=proxytg.fit&port=443&secret=eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974
 tg://proxy?server=proxytg.live&port=443&secret=ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665
 tg://proxy?server=s.rkn.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d
