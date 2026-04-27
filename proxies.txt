@@ -1,10 +1,9 @@
-# Telegram Proxies — updated 2026-04-27 01:49 UTC
+# Telegram Proxies — updated 2026-04-27 05:00 UTC
 # Total: 22
 
 tg://proxy?port=443&secret=ee03391d9e585b20ee18f588274347c2ff646c2e676f6f676c652e636f6d&server=188.137.254.117
 tg://proxy?port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e676f6f676c652e636f6d&server=185.224.215.172
 tg://proxy?server=144.91.98.66&port=443&secret=ee5fbe077b31222ca0fd6639c317a2d1b3636c6f7564666c6172652e636f6d
-tg://proxy?server=158.220.96.243&port=443&secret=ee602404acdf5669aedf205691a613befd636c6f7564666c6172652e636f6d
 tg://proxy?server=164.68.122.140&port=443&secret=ee6346164eb9fd41c57c1256c5f6c63757636c6f7564666c6172652e636f6d
 tg://proxy?server=172.234.115.238&port=443&secret=ed9a2a2855155d4ff768a2a0bef9465a
 tg://proxy?server=173.249.8.245&port=443&secret=ee99dc82d629d9d7cfd41e690029878522636c6f7564666c6172652e636f6d
@@ -21,5 +20,6 @@ tg://proxy?server=cintiabot.duckdns.org&port=8445&secret=eff26409bf9edc229a5b009
 tg://proxy?server=freeon.name&port=443&secret=dded1a5a7f339b8ff9840d52df12382970
 tg://proxy?server=hotmoms.today&port=443&secret=7iXLuSy-XvkaIdpOgC5gZ19hZHMueDUucnU
 tg://proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c6888366f26b12f994f02ecf1a
+tg://proxy?server=proxysb.xyz&port=443&secret=eef7ca86268af768135f9ca41f89e9efb670726f787973622e78797a
 tg://proxy?server=tproxyru.live.&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d
