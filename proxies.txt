@@ -1,13 +1,13 @@
-# Telegram Proxies — updated 2026-04-29 15:02 UTC
-# Total: 23
+# Telegram Proxies — updated 2026-04-29 17:16 UTC
+# Total: 22
 
 tg://proxy?port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e676f6f676c652e636f6d&server=188.137.234.21
+tg://proxy?server=144.31.167.164&port=443&secret=db03aa703f64ca9f2b3a31ff908f2deb
 tg://proxy?server=31.13.208.182&port=443&secret=2a0a0be9f8a2c802b3d8606754e5b57f
 tg://proxy?server=31.220.72.60&port=443&secret=ee399a6e8dbe6399816eba10c0fa78609d636c6f7564666c6172652e636f6d
 tg://proxy?server=45.88.182.85&port=3389&secret=ee8c4c09e353b559af7dda77539737dc6f6e617665722e636f6d
 tg://proxy?server=50.7.41.162&port=443&secret=ee011808bcccfd224644ca7f231846a7d46d61782e7275
 tg://proxy?server=67.159.52.8&port=443&secret=ee011808bcccfd224644ca7f231846a7d46d61782e7275
-tg://proxy?server=bella-cook.com&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
 tg://proxy?server=concord.servervless.ru&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
 tg://proxy?server=connect.x-modz.ru&port=1337&secret=ddc0c733ec1b86d03859cb13ed09f9f722
 tg://proxy?server=dedicated.love-internet.xyz&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
@@ -18,7 +18,6 @@ tg://proxy?server=free-nl.kimt.space&port=443&secret=ee3efced182e68e689a17d58c71
 tg://proxy?server=iloveasians.club&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
 tg://proxy?server=nya-nya.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
-tg://proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c6888366f26b12f994f02ecf1a
 tg://proxy?server=sosally.net&port=443&secret=ee25cbb92cbe5ef91a21da4e802e60675f6164732e78352e7275
 tg://proxy?server=tggo.store&port=443&secret=7uzWmAwONp7D1ujd83Bwkr50Z2dvLnN0b3Jl
 tg://proxy?server=tproxy.postpulse.space&port=443&secret=7t9wXPAjSLyG5qaB0nL7Y9hwZXRyb3ZpY2gucnU
