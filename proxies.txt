@@ -1,10 +1,11 @@
-# Telegram Proxies — updated 2026-05-01 16:44 UTC
-# Total: 26
+# Telegram Proxies — updated 2026-05-01 17:50 UTC
+# Total: 27
 
-tg://proxy?server=130.49.218.57&port=443&secret=ee8aa50573bd2e964427df682f93935ce4646c2e676f6f676c652e636f6d
 tg://proxy?server=154.83.208.125&port=7443&secret=ee38b9b0c4593e5f066d687ddcca5e636c6f7564666c6172652e636f6d
 tg://proxy?server=172.234.115.238&port=443&secret=3a3365be03d6bc13518d65e70a3146c2
 tg://proxy?server=178.234.184.253&port=4443&secret=ddcbedf2ec3904bc0856b6b7b5a50fcb7d
+tg://proxy?server=192.124.189.91&port=5228&secret=eeeef23efc8eeb72f8b96285fabeaa69f56d74616c6b2e676f6f676c652e636f6d
+tg://proxy?server=193.163.203.247&port=443&secret=eeedc92b816769e7ca95e42be4ae45eac53139332e31
 tg://proxy?server=2.26.125.172&port=443&secret=667161e1e8616dd33fdf8e43e40784d9
 tg://proxy?server=212.43.149.230&port=443&secret=ddbb2bb629e6110b10b43c4e1ecfdac6e1
 tg://proxy?server=45.15.129.62&port=322&secret=7jxWn4gNdE5lUgkqgbRKB253d3cuYW1hem9uLmNvbQ
@@ -20,10 +21,10 @@ tg://proxy?server=i-love-cu.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288
 tg://proxy?server=maxifree.ishrimp.xyz&port=443&secret=eeda276c4eeff7b94ceffde83ba1bca1fc6d617869667265652e69736872696d702e78797a
 tg://proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564
 tg://proxy?server=p5.vpncontrol.online&port=443&secret=63ddf70c2fa66dfa8a66e5c244d02c13
-tg://proxy?server=p7.owo.chillmybabe.ru&port=8443&secret=7qfcfkjg7RFcOSVbyV15npNhcGkucGVyZWtyZXN0b2sucnU
+tg://proxy?server=proto.ghostguard.site&port=8443&secret=7iTqo3b0DL-c1y2n8GOKLxdwcm90by5naG9zdGd1YXJkLnNpdGU
 tg://proxy?server=proxy1.zeleniyslonik.guru&port=443&secret=eef75e1d0f1eaface44bd3e2339697827770726f7879312e7a656c656e6979736c6f6e696b2e67757275
 tg://proxy?server=proxytg.fit&port=443&secret=eec8f164f338f20e2e3c7a0f4e0408a51270726f787974672e666974
 tg://proxy?server=proxytg.live&port=443&secret=ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665
 tg://proxy?server=two.turboproxy.pro&port=8443&secret=eec8150abdb60a541343858be088e857f66669727374627974652e7275
 tg://proxy?server=ultra.telehelp.top&port=443&secret=ee1d36cba6cc6ae2eb779806189b95efb864726976652e676f6f676c652e636f6d
-tg://proxy?server=w7.ewe.chillmybabe.ru&port=8443&secret=7jT7CJulnbpYHPMdOJZhYLZ3d3cud2lsZGJlcnJpZXMucnU
+tg://proxy?server=who-are-you.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
