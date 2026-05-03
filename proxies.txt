@@ -1,14 +1,11 @@
-# Telegram Proxies — updated 2026-05-03 19:45 UTC
-# Total: 24
+# Telegram Proxies — updated 2026-05-03 20:32 UTC
+# Total: 21
 
-tg://proxy?server=138.124.255.194&port=443&secret=ee82938efa812eee7c77d338d0966315e0677374617469632e636f6d
-tg://proxy?server=186.246.5.110&port=443&secret=ee34fd4e8e9b8d0008a2d80f7e8b80ce8277622e7275
 tg://proxy?server=2.27.15.97&port=443&secret=eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275
 tg://proxy?server=51.250.64.161&port=443&secret=4e43ae171d135959078c3ea87a0fcd38
 tg://proxy?server=81.90.21.237&port=443&secret=eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275
 tg://proxy?server=89.125.32.174&port=8888&secret=eec8a8187ba8a4b7483c547981b3cf88eb73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=91.108.248.222&port=993&secret=ee181e2ad5e63c27262781187f2dedc4bb7777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=92.118.206.53&port=443&secret=ee328dd6a9f470d1672bf6435d2b6c5e5e706574726f766963682e7275
 tg://proxy?server=94.183.177.239&port=443&secret=ee1f1e82326bfdd9633604a61d7df8018d7777772e6d6963726f736f66742e7275
 tg://proxy?server=connect.tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 tg://proxy?server=ctfd-is-shit.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
