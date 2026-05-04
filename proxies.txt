@@ -1,8 +1,9 @@
-# Telegram Proxies — updated 2026-05-04 01:53 UTC
-# Total: 21
+# Telegram Proxies — updated 2026-05-04 05:25 UTC
+# Total: 20
 
 tg://proxy?server=2.27.15.97&port=443&secret=eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275
 tg://proxy?server=51.250.64.161&port=443&secret=4e43ae171d135959078c3ea87a0fcd38
+tg://proxy?server=79.137.196.223&port=8443&secret=eeeeacd334a255675ccc880cb6b8c9caf07777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=81.90.21.237&port=443&secret=eef97fccdfa1bf4c0de586e6282f07778c706574726f766963682e7275
 tg://proxy?server=89.125.32.174&port=8888&secret=eec8a8187ba8a4b7483c547981b3cf88eb73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=91.108.248.222&port=993&secret=ee181e2ad5e63c27262781187f2dedc4bb7777772e636c6f7564666c6172652e636f6d
@@ -12,7 +13,6 @@ tg://proxy?server=ctfd-is-shit.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f
 tg://proxy?server=fast.tg.toggle.org&port=443&secret=ee4ef574bb2e39f96833252cdfa792eee4676f6f676c652e636f6d
 tg://proxy?server=focus-ultimate.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=gproxy-sosavpn.duckdns.org&port=8443&secret=bfb77f1c4bf8a5c16eb5a3d93954ce69
-tg://proxy?server=mtproto.wemakecode.ru&port=6443&secret=e569c9792f984167ea08d493735fe342
 tg://proxy?server=pinklove.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c6888366f26b12f994f02ecf1a
 tg://proxy?server=proxysb.xyz&port=443&secret=eef7ca86268af768135f9ca41f89e9efb670726f787973622e78797a
@@ -20,5 +20,4 @@ tg://proxy?server=proxytg.fit&port=443&secret=eec8f164f338f20e2e3c7a0f4e0408a512
 tg://proxy?server=proxytg.live&port=443&secret=ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665
 tg://proxy?server=r.vkgosuslugi.ru&port=443&secret=eeb3c40cca79ad207666c65909f2b281be77622e7275
 tg://proxy?server=s5.proxyru.top&port=443&secret=eefe281d2bfa13f991ed6be43138e5e14c79612e7275
-tg://proxy?server=sw1337.ciaowner.lol&port=443&secret=ee60446ad1e814e00454e1f448eda0425d6d2e766b2e636f6d
 tg://proxy?server=y.vkgosuslugi.ru&port=443&secret=eef7f61a772049acbf6712254678726d8477622e7275
