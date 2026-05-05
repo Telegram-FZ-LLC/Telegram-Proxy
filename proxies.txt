@@ -1,9 +1,6 @@
-# Telegram Proxies — updated 2026-05-05 17:16 UTC
-# Total: 23
+# Telegram Proxies — updated 2026-05-05 19:04 UTC
+# Total: 21
 
-tg://proxy?server=0xb00b5.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
-tg://proxy?server=130.49.218.57&port=443&secret=ee8aa50573bd2e964427df682f93935ce4646c2e676f6f676c652e636f6d
-tg://proxy?server=193.23.199.16&port=8443&secret=eed942e15d1c4f6a22a8c8fc1d631f6eb9646c2e676f6f676c652e636f6d
 tg://proxy?server=193.23.199.57&port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d
 tg://proxy?server=5.230.201.129&port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d
 tg://proxy?server=94.183.177.239&port=443&secret=ee1f1e82326bfdd9633604a61d7df8018d7777772e6d6963726f736f66742e7275
@@ -13,6 +10,7 @@ tg://proxy?server=etherealvpn.uk&port=443&secret=ee47e15341ad5117d1bc6d0b4b20d17
 tg://proxy?server=getfastlink.click&port=443&secret=ee47e3a8b2c1f4e9d0a6b5c8d7e4f3a2b1676574666173746c696e6b2e636c69636b
 tg://proxy?server=gg.etherealvpn.uk&port=443&secret=eee2c7176c8fc89b33fef34325dc5b9f01d186d17777772e6d6963726f736f66742e636f6d
 tg://proxy?server=host.etherealvpn.uk&port=443&secret=ee5eb2336f3a46a15cf19ca3d707781b4c7777772e6d6963726f736f66742e636f6d
+tg://proxy?server=i-love-femboys.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=linkflowhub.shop&port=443&secret=ee214c7bb19c9734154c87193afcaecbcd6c696e6b666c6f776875622e73686f70
 tg://proxy?server=mtproto.wemakecode.ru&port=6443&secret=e569c9792f984167ea08d493735fe342
 tg://proxy?server=now.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
