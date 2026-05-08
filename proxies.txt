@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-05-08 02:03 UTC
-# Total: 25
+# Telegram Proxies — updated 2026-05-08 05:21 UTC
+# Total: 24
 
 tg://proxy?server=193.23.199.57&port=443&secret=ee03391d9e585b20ee18f588274347c2ff7777772e6d6963726f736f66742e636f6d
 tg://proxy?server=193.233.139.92&port=443&secret=eede9514d46c8d152452b6de4879c15299706574726f766963682e7275
@@ -25,4 +25,3 @@ tg://proxy?server=tgobhod.forum&port=443&secret=ee1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c
 tg://proxy?server=two.turboproxy.pro&port=8443&secret=eec8150abdb60a541343858be088e857f66669727374627974652e7275
 tg://proxy?server=vibe.xomodz.fit&port=853&secret=ee78a3039828ea09d09f328b2590943c65766962652e786f6d6f647a2e666974
 tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d
-tg://proxy?server=y0u-found-a-way-ou7-of-gorphosts-lockd0wn.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
