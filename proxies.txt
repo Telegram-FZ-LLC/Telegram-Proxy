@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-05-09 11:41 UTC
+# Telegram Proxies — updated 2026-05-09 12:53 UTC
 # Total: 25
 
 tg://proxy?server=132.243.235.143&port=443&secret=ee1a043ca04520458fe7fc96309b095f3679616e6465782e7275
@@ -15,6 +15,7 @@ tg://proxy?server=89.125.113.12&port=443&secret=ee40785eb436e2c9bce293356b0db1ed
 tg://proxy?server=89.125.113.8&port=443&secret=ee5b99cc79c1fe095be478df4111e00b6379616e6465782e7275
 tg://proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c9978352e7275
 tg://proxy?server=connect.tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+tg://proxy?server=mtp.fsoc-app.online&port=853&secret=ee1d49946a9bd11022149e2c68f1d75f6774656c2e66736f632d6170702e6f6e6c696e65
 tg://proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564
 tg://proxy?server=mtp.yard-tg-bot.ru&port=443&secret=eef658bb6d89b284874149c13e7d27d9da79616e6465782e7275
 tg://proxy?server=ninja.spectranet.pro&port=443&secret=eec72c7ef46ddd254e5fb5f248521c4f986e696e6a612e737065637472616e65742e70726f
@@ -23,6 +24,5 @@ tg://proxy?server=q.hq-1337.win&port=443&secret=ee84ea5a1d188a32e3905389660fa0bf
 tg://proxy?server=quickrouteapp.xyz&port=443&secret=ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a
 tg://proxy?server=tgobhod.forum&port=443&secret=ee1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d74676f62686f642e666f72756d
 tg://proxy?server=tproxyru.live.&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
-tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d
 tg://proxy?server=xn--80agb2axz5d.xn--80ajveggb2e.xn--p1ai&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275
 tg://proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f7275737369616e2d616e696d616c732e7275
