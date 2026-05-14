@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-05-14 11:43 UTC
+# Telegram Proxies — updated 2026-05-14 13:29 UTC
 # Total: 21
 
 tg://proxy?server=138.124.79.102&port=443&secret=eeef989ce1d22d2afce85121376fed00176d61782e7275
@@ -17,8 +17,8 @@ tg://proxy?server=i-love-femboys.top&port=853&secret=ee54ce330e4690cc297d2b031ff
 tg://proxy?server=mtp.love-pussy.online&port=8980&secret=eeb6506e69d11db32d81c215a14850a194617669746f2e7275
 tg://proxy?server=predator-artist.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=proproxiesnl.grittytarantula.sbs&port=443&secret=ee46b9756da2530209236c4a3c12814b1670726f70726f786965736e6c2e677269747479746172616e74756c612e736273
+tg://proxy?server=proxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275
 tg://proxy?server=proxy.nolags.pw&port=443&secret=dd1ceee809992f1b5205b6fc3cea02aac7
-tg://proxy?server=s1.proxytg.space&port=443&secret=ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d
 tg://proxy?server=swekitty.grittytarantula.sbs&port=443&secret=ee7c9245a98f1f79bd6f318cbd8118c10f7377656b697474792e677269747479746172616e74756c612e736273
 tg://proxy?server=vfast.proxytg.space&port=443&secret=ee4b3ce8c172e8a23ff5f953069ef6c38a64726976652e676f6f676c652e636f6d
 tg://proxy?server=xd.rkn.lat&port=443&secret=eec58bbb0e46e9fe769afc157088d87a076d61782e7275
