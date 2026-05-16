@@ -1,16 +1,16 @@
-# Telegram Proxies — updated 2026-05-16 14:21 UTC
-# Total: 27
+# Telegram Proxies — updated 2026-05-16 15:48 UTC
+# Total: 25
 
 tg://proxy?server=104.253.43.230&port=443&secret=ee415fbec3218718b534391d4439ab184579616e6465782e7275
 tg://proxy?server=104.253.43.252&port=443&secret=eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275
 tg://proxy?server=104.253.43.74&port=443&secret=ee05e177309b81b87d379e9f454c49374f79616e6465782e7275
 tg://proxy?server=104.253.43.94&port=443&secret=ee48158585a131fc19a62c263035654f8179616e6465782e7275
+tg://proxy?server=178.105.141.172&port=443&secret=ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d
 tg://proxy?server=204.168.255.33&port=8080&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=217.60.98.160&port=443&secret=eed9fd89062ab62abcbf1bd82dfe9140047777772e6d6963726f736f66742e636f6d
 tg://proxy?server=34.51.189.93&port=443&secret=dd2d7d9877fd3e4240f2ffd5596a39c68c
 tg://proxy?server=88.198.203.112&port=8080&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=95.216.222.63&port=443&secret=ee85f51151981bd69a6281f9e85395161a676f6f676c65617069732e636f6d
 tg://proxy?server=akenai.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
-tg://proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275
 tg://proxy?server=connect.tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 tg://proxy?server=ctfd-is-shit.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=dealer1-de.dealer.ac&port=8443&secret=ee1d5ddd766b5581496d020d394d0cb66d7477656e7475722e636f6d
@@ -18,8 +18,6 @@ tg://proxy?server=dealer2-de.dealer.ac&port=8443&secret=ee81535a864acce5de15b221
 tg://proxy?server=dealer3-swe.dealer.ac&port=8443&secret=ee5afcdc6cd0823c91e8c453b0fd37be207477656e7475722e636f6d
 tg://proxy?server=dealer4-fin.dealer.ac&port=8443&secret=ee602b25b6e94c83ec0e24fbbc83c8bc547477656e7475722e636f6d
 tg://proxy?server=ethereal.arixo.shop&port=443&secret=eed9fd89062ab62abcbf1bd82dfe914004617669746f2e7275
-tg://proxy?server=f1.kurduk.store&port=443&secret=ee1e34c689f1f76dff1f2ae4aefb4c6848706574726f766963682e7275
-tg://proxy?server=f2.kurduk.store&port=443&secret=ee1e34c689f1f76dff1f2ae4aefb4c6848706574726f766963682e7275
 tg://proxy?server=femboy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275
 tg://proxy?server=hello.proxytg.space&port=443&secret=ee57b7509fe484325abedc85f18804843768656c6c6f2e70726f787974672e7370616365
 tg://proxy?server=hot.proxytg.space&port=443&secret=ee12ff13d128ef99c8565ff9b580577959686f742e70726f787974672e7370616365
