@@ -1,10 +1,10 @@
-# Telegram Proxies — updated 2026-05-16 10:54 UTC
-# Total: 25
+# Telegram Proxies — updated 2026-05-16 11:42 UTC
+# Total: 27
 
+tg://proxy?server=104.253.43.230&port=443&secret=ee415fbec3218718b534391d4439ab184579616e6465782e7275
 tg://proxy?server=104.253.43.252&port=443&secret=eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275
 tg://proxy?server=104.253.43.74&port=443&secret=ee05e177309b81b87d379e9f454c49374f79616e6465782e7275
-tg://proxy?server=147.45.79.137&port=443&secret=eea90f801141cbf3154444b618e56f7976766b2e636f6d
-tg://proxy?server=147.45.79.142&port=443&secret=eea585facf3aa5bb842a35536149837a2e766b2e636f6d
+tg://proxy?server=104.253.43.94&port=443&secret=ee48158585a131fc19a62c263035654f8179616e6465782e7275
 tg://proxy?server=204.168.255.33&port=8080&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=217.60.98.160&port=443&secret=eed9fd89062ab62abcbf1bd82dfe9140047777772e6d6963726f736f66742e636f6d
 tg://proxy?server=34.51.189.93&port=443&secret=dd2d7d9877fd3e4240f2ffd5596a39c68c
@@ -13,6 +13,8 @@ tg://proxy?server=akenai.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06
 tg://proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275
 tg://proxy?server=connect.tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 tg://proxy?server=ctfd-is-shit.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+tg://proxy?server=dealer3-swe.dealer.ac&port=8443&secret=ee5afcdc6cd0823c91e8c453b0fd37be207477656e7475722e636f6d
+tg://proxy?server=dealer4-fin.dealer.ac&port=8443&secret=ee602b25b6e94c83ec0e24fbbc83c8bc547477656e7475722e636f6d
 tg://proxy?server=ethereal.arixo.shop&port=443&secret=eed9fd89062ab62abcbf1bd82dfe914004617669746f2e7275
 tg://proxy?server=f1.kurduk.store&port=443&secret=ee1e34c689f1f76dff1f2ae4aefb4c6848706574726f766963682e7275
 tg://proxy?server=f2.kurduk.store&port=443&secret=ee1e34c689f1f76dff1f2ae4aefb4c6848706574726f766963682e7275
