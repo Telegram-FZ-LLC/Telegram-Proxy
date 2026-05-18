@@ -1,20 +1,19 @@
-# Telegram Proxies — updated 2026-05-18 14:28 UTC
-# Total: 22
+# Telegram Proxies — updated 2026-05-18 17:25 UTC
+# Total: 21
 
 tg://proxy?server=132.243.213.221&port=443&secret=eedb1bb2c2c796e681b5062a973eb05859706574726f766963682e7275
 tg://proxy?server=132.243.213.245&port=443&secret=ee6a441d3845f1bfec1100662ce671d8ed706574726f766963682e7275
 tg://proxy?server=144.31.221.15&port=443&secret=1d704dc7fbf37924bc72f016a8f91b0d
-tg://proxy?server=144.31.221.15&port=443&secret=bfb063cc6d861de10f6a39c795fc66e4
 tg://proxy?server=178.105.137.152&port=443&secret=eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d
 tg://proxy?server=186.246.16.221&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275
 tg://proxy?server=186.246.18.244&port=443&secret=ee2086691bf3db011a90a21bbd34cc29647777772e6d6963726f736f66742e636f6d
+tg://proxy?server=78.17.71.42&port=443&secret=eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275
 tg://proxy?server=79.137.196.223&port=4443&secret=eeee4026e99e99216664b0cb156da676d7707777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=89.125.17.12&port=45100&secret=eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d
 tg://proxy?server=89.167.40.214&port=443&secret=eea21bf437ed6f38a5b03c6e66b036d301676f6f676c65617069732e636f6d
-tg://proxy?server=94.183.233.28&port=443&secret=eea85cae818aac3335d305b62cc1a5892a7777772e6d6963726f736f66742e636f6d
 tg://proxy?server=alo.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=ark.proxytg.space&port=443&secret=eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365
-tg://proxy?server=atg.proxytg.space&port=443&secret=eef9632da3b0ea3b51ab5840f93b2ddaff6174672e70726f787974672e7370616365
+tg://proxy?server=hl.routefastnet.online&port=443&secret=eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65
 tg://proxy?server=max.telehelp.top&port=443&secret=ee27252638159317e07b706d5114d73e0b64726976652e676f6f676c652e636f6d
 tg://proxy?server=mt.nowaboost.com&port=853&secret=4fd95a487c5c87ae82b6639a9b6b5ff2
 tg://proxy?server=night.nolags.pw&port=443&secret=dddb42e911bcebf275392e32feebef9459
