@@ -1,12 +1,14 @@
-# Telegram Proxies — updated 2026-05-19 02:31 UTC
-# Total: 19
+# Telegram Proxies — updated 2026-05-19 06:39 UTC
+# Total: 21
 
-tg://proxy?server=144.31.221.15&port=443&secret=1d704dc7fbf37924bc72f016a8f91b0d
 tg://proxy?server=178.105.137.152&port=443&secret=eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d
+tg://proxy?server=178.105.141.172&port=443&secret=ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d
+tg://proxy?server=178.105.168.17&port=443&secret=eeb67e98429f3ba8896ff33ab9ff9d18a1676f6f676c65617069732e636f6d
+tg://proxy?server=186.246.16.123&port=443&secret=ee64a7c68e4083ec77823115e01a44b8507777772e6d6963726f736f66742e636f6d
 tg://proxy?server=186.246.16.221&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275
 tg://proxy?server=186.246.18.244&port=443&secret=ee2086691bf3db011a90a21bbd34cc29647777772e6d6963726f736f66742e636f6d
+tg://proxy?server=186.246.20.121&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275
 tg://proxy?server=78.17.71.42&port=443&secret=eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275
-tg://proxy?server=79.137.196.223&port=4443&secret=eeee4026e99e99216664b0cb156da676d7707777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=89.125.17.12&port=45100&secret=eebc4dccfbda58d9f3b574dcece8cd54bf6974756e65732e6170706c652e636f6d
 tg://proxy?server=89.167.40.214&port=443&secret=eea21bf437ed6f38a5b03c6e66b036d301676f6f676c65617069732e636f6d
 tg://proxy?server=ak.yourline.online&port=443&secret=eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65
@@ -18,5 +20,5 @@ tg://proxy?server=mt.corph.ru&port=443&secret=dd2ed7517b077ef414e24b106e0729335d
 tg://proxy?server=mt.nowaboost.com&port=853&secret=4fd95a487c5c87ae82b6639a9b6b5ff2
 tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=proxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275
-tg://proxy?server=rkn.proxytg.space&port=443&secret=eedab8c006cdc477f71b1825b3082b1017726b6e2e70726f787974672e7370616365
 tg://proxy?server=rkn.prxtoday.space&port=443&secret=eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365
+tg://proxy?server=rn.quantadc.online&port=443&secret=ee526f153573c253113db8d64dfd69baf0726e2e7175616e746164632e6f6e6c696e65
