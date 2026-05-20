@@ -1,13 +1,14 @@
-# Telegram Proxies — updated 2026-05-20 10:18 UTC
-# Total: 26
+# Telegram Proxies — updated 2026-05-20 13:30 UTC
+# Total: 28
 
+tg://proxy?server=103.110.64.210&port=443&secret=eeaf249464f27f61e3c8f0e0dce07f413379616e6465782e7275
+tg://proxy?server=103.110.64.211&port=443&secret=ee457a1d7a9004f780d4ca5ad2290f7e1a79616e6465782e7275
 tg://proxy?server=103.110.64.212&port=443&secret=eeb4559cb6722f727d849090621e7aba8f79616e6465782e7275
 tg://proxy?server=103.110.64.213&port=443&secret=eecb034302623216896e2887011d848d6479616e6465782e7275
 tg://proxy?server=130.49.218.57&port=443&secret=ee8aa50573bd2e964427df682f93935ce4646c2e676f6f676c652e636f6d
 tg://proxy?server=186.246.18.175&port=443&secret=eec11798ab008831b474066c9e1ebf5c97617669746f2e7275
 tg://proxy?server=193.23.199.16&port=8443&secret=eed942e15d1c4f6a22a8c8fc1d631f6eb9646c2e676f6f676c652e636f6d
-tg://proxy?server=2.27.12.116&port=443&secret=ee19130c695cf699d93f5a31ecf380d4426d742e736b6f746f62617a2e7275
-tg://proxy?server=212.192.23.209&port=443&secret=ee0fdb7b375ea7edf4d054be58763fcccc7777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=5.181.0.202&port=443&secret=eec11798ab008831b474066c9e1ebf5c96617669746f2e7275
 tg://proxy?server=72.56.40.220&port=443&secret=eec11798ab008831b474066c9e1ebf5c98617669746f2e7275
 tg://proxy?server=72.56.71.8&port=443&secret=eec11798ab008831b474066c9e1ebf5c96617669746f2e7275
 tg://proxy?server=He.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
@@ -18,10 +19,11 @@ tg://proxy?server=alpina.hatecens.cc&port=8443&secret=ee3402ba73468309ea53338f1e
 tg://proxy?server=amorecoin.duckdns.org&port=443&secret=7mYW_5fPLJzJxcvUupkA3pN3d3cuZ29vZ2xlLmNvbQ
 tg://proxy?server=ewe.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=fastproxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275
+tg://proxy?server=hl.routefastnet.online&port=443&secret=7qml9WdAadmCCIta0n3KRYRobC5yb3V0ZWZhc3RuZXQub25saW5l
+tg://proxy?server=hop1.proxytg.space&port=443&secret=ee7e6c3f99b8b56d5aece5326877a3793a6d61782e7275
 tg://proxy?server=hotmtpro.duckdns.org&port=443&secret=7u-wXMxodyqALbbZW3bovVF3d3cuYW1hem9uLmNvbQ
 tg://proxy?server=mt.nowabst.com&port=853&secret=7t16ej1vTPH3w_rpz_KLc3lhZHMueDUucnU
 tg://proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564
-tg://proxy?server=proxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275
 tg://proxy?server=rkn.prxtoday.space&port=443&secret=eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365
 tg://proxy?server=rn.quantadc.online&port=443&secret=ee526f153573c253113db8d64dfd69baf0726e2e7175616e746164632e6f6e6c696e65
 tg://proxy?server=sex.etherealvpn.uk&port=443&secret=ee0701bd90bfa663c01c08d1e293209e287777772e6d6963726f736f66742e636f6d
