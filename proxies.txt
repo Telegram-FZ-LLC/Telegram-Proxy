@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-05-24 19:00 UTC
-# Total: 24
+# Telegram Proxies — updated 2026-05-24 20:41 UTC
+# Total: 26
 
 tg://proxy?server=185.147.127.50&port=443&secret=eec11798ab008831b474066c9e1ebf5c81617669746f2e7275
 tg://proxy?server=186.246.16.232&port=443&secret=eec11798ab008831b474066c9e1ebf5c81617669746f2e7275
@@ -22,6 +22,8 @@ tg://proxy?server=s4.neo-trading.org&port=443&secret=ee181e2ad5e63c27262781187f2
 tg://proxy?server=server-1.shustrik.world&port=443&secret=ee53fed7a45b8fcb2ef5a2e0223c76bb4e766b766964656f2e7275
 tg://proxy?server=speed.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
 tg://proxy?server=tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+tg://proxy?server=tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 tg://proxy?server=tproxy.monster&port=2053&secret=ee104462821249bd7ac519130220c25d096d61696c2e7275
 tg://proxy?server=www.tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+tg://proxy?server=www.tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 tg://proxy?server=www.tproxy.monster&port=2053&secret=ee104462821249bd7ac519130220c25d096d61696c2e7275
