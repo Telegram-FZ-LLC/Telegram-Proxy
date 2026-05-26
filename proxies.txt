@@ -1,33 +1,33 @@
-# Telegram Proxies — updated 2026-05-26 06:37 UTC
+# Telegram Proxies — updated 2026-05-26 13:47 UTC
 # Total: 32
 
+tg://proxy?server=144.31.118.113&port=443&secret=eebecf163e05ff751c455eeadbbaf682de6564612e79616e6465782e7275
 tg://proxy?server=146.103.96.129&port=443&secret=ee627bdd42b085906e41105ddd7dab8cca706574726f766963682e7275
 tg://proxy?server=178.105.137.152&port=443&secret=eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d
 tg://proxy?server=186.246.21.31&port=443&secret=eeb4977787e9a3f4c9d51ec528688f922e617669746f2e7275
 tg://proxy?server=186.246.21.40&port=443&secret=eec11798ab008831b474066c9e1ebf5c74617669746f2e7275
+tg://proxy?server=186.246.21.89&port=443&secret=eec11798ab008831b474066c9e1ebf5c73617669746f2e7275
+tg://proxy?server=2.26.252.43&port=443&secret=ee6cc9e422a51432ca4df25293389adef06172746c6562656465762e7275
 tg://proxy?server=45.12.109.223&port=443&secret=ee43db025a33093757dadf5ab0aa9966b1676f6f676c65617069732e636f6d
 tg://proxy?server=72.56.87.28&port=443&secret=7sEXmKsAiDG0dAZsnh6_XHZhdml0by5ydQ
-tg://proxy?server=72.56.87.28&port=443&secret=eec11798ab008831b474066c9e1ebf5c76617669746f2e7275
-tg://proxy?server=amoreszi.duckdns.org&port=443&secret=7uZ0yg4fr7vIQ5i_MUfeWQB3d3cuYXBwbGUuY29t
+tg://proxy?server=amorecoin.duckdns.org&port=443&secret=7mYW_5fPLJzJxcvUupkA3pN3d3cuZ29vZ2xlLmNvbQ
 tg://proxy?server=dns.vdl.lat&port=853&secret=ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275
 tg://proxy?server=dr1.dedus.pro&port=443&secret=eeaf504aa56469ec880c9cb00515fc8a2d79616e6465782e7275
 tg://proxy?server=dr4.dedus.pro&port=443&secret=eeaf504aa56469ec880c9cb00515fc8a2d79616e6465782e7275
 tg://proxy?server=g.proxytg.space&port=8443&secret=eedc41bbb2f33136f9e5f58f258e2f5a8a672e70726f787974672e7370616365
-tg://proxy?server=hotmtpro2.duckdns.org&port=443&secret=7kBjzU5SbZqTzIJZZEf4Tvp3d3cubWljcm9zb2Z0LmNvbQ
+tg://proxy?server=gm1.mowork.twc1.net&port=443&secret=ee787ec52793641dad735f01313b33f82b7462616e6b2e7275
+tg://proxy?server=hotmtpro.duckdns.org&port=443&secret=7u-wXMxodyqALbbZW3bovVF3d3cuYW1hem9uLmNvbQ
 tg://proxy?server=mt.nowaboost.com&port=443&secret=4fd95a487c5c87ae82b6639a9b6b5ff2
 tg://proxy?server=mt.nowabst.com&port=853&secret=eedd7a7a3d6f4cf1f7c3fae9cff28b73796164732e78352e7275
-tg://proxy?server=offni-vpn.nolags.pw&port=443&secret=dda69632d86d88061ea6e94523027b0470
+tg://proxy?server=nd1.mowork.twc1.net&port=443&secret=ee79faca7ec8bd1b9125007dee535716f47777772e6d6963726f736f66742e636f6d
 tg://proxy?server=r1.proxytg.space&port=8443&secret=eecd671d2032569f6cea0fb4c61c32756972312e70726f787974672e7370616365
 tg://proxy?server=r6.proxytg.space&port=8443&secret=eea66a6c939a8f1a0596bd06f17dae253772362e70726f787974672e7370616365
 tg://proxy?server=r7.proxytg.space&port=8443&secret=ee20d95482189070afff142be2bf66014c72372e70726f787974672e7370616365
-tg://proxy?server=rkn.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
-tg://proxy?server=rus1.mtproxygram.pro&port=443&secret=eefbee6e61d427a84d26b97590a8f63bab62726f777365722e79616e6465782e636f6d
-tg://proxy?server=rus2.mtproxygram.pro&port=443&secret=ee1a420d0518e4347a059fcb4c9a46deb362726f777365722e79616e6465782e636f6d
-tg://proxy?server=s.proxytg.space&port=8443&secret=eefefc4f17248e59437bb451447a9170b2732e70726f787974672e7370616365
-tg://proxy?server=s11.neo-trading.org&port=993&secret=ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=s13.neo-trading.org&port=993&secret=eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=r9.proxytg.space&port=8443&secret=ee3e77e6aa740bda96a1dabd06717f51b272392e70726f787974672e7370616365
 tg://proxy?server=s15.proxyru.top&port=993&secret=eefe281d2bfa13f991ed6be43138e5e14c7777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=s21.neo-trading.org&port=443&secret=ee181e2ad5e63c27262781187f2dedc4bb79612e7275
 tg://proxy?server=s24.neo-trading.org&port=443&secret=ee17b59d905a546c7bf7355cf95c4ecfed79612e7275
+tg://proxy?server=s25.proxyru.top&port=443&secret=eefe281d2bfa13f991ed6be43138e5e14c79612e7275
 tg://proxy?server=tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 tg://proxy?server=tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 tg://proxy?server=vk.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
