@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-05-29 16:35 UTC
-# Total: 24
+# Telegram Proxies — updated 2026-05-29 19:26 UTC
+# Total: 23
 
 tg://proxy?server=161.97.152.87&port=443&secret=eeafe33c3da508eb71e1aa5cda9251d3cb676f6f676c65617069732e636f6d
 tg://proxy?server=186.246.19.134&port=443&secret=ee17867c11b83c2c36a3de356743602b2c617669746f2e7275
@@ -23,5 +23,4 @@ tg://proxy?server=r23.proxytg.space&port=8443&secret=eed8f9cb134573d3eff7e4e0319
 tg://proxy?server=r24.proxytg.space&port=8443&secret=eeade4e42a3bee4969fcb706467380da727232342e70726f787974672e7370616365
 tg://proxy?server=r25.proxytg.space&port=8443&secret=eecc4a140a0d61e4ead7c5fede495c6cd97232352e70726f787974672e7370616365
 tg://proxy?server=r26.proxytg.space&port=8443&secret=eec479c1a98aa5c149647459a1c098634c7232362e70726f787974672e7370616365
-tg://proxy?server=russia.nolags.pw&port=443&secret=dd04dbf1f1459ffbc5e646db206794163a
 tg://proxy?server=vpn.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
