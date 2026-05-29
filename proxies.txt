@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-05-29 09:34 UTC
-# Total: 26
+# Telegram Proxies — updated 2026-05-29 12:40 UTC
+# Total: 24
 
 tg://proxy?server=161.97.152.87&port=443&secret=eeafe33c3da508eb71e1aa5cda9251d3cb676f6f676c65617069732e636f6d
 tg://proxy?server=186.246.19.17&port=443&secret=eec11798ab008831b474066c9e1ebf5c67617669746f2e7275
@@ -8,22 +8,20 @@ tg://proxy?server=186.246.21.111&port=443&secret=eec974a3a31e6a91e39d873e2f62701
 tg://proxy?server=186.246.21.96&port=443&secret=eec11798ab008831b474066c9e1ebf5c66617669746f2e7275
 tg://proxy?server=5.189.165.109&port=443&secret=ee417d3d7571c540ec9fbc4fd1995058a1676f6f676c65617069732e636f6d
 tg://proxy?server=77.73.135.70&port=443&secret=ee24fc31cd01228525d9052a343acbe717766b2e636f6d
-tg://proxy?server=85.192.31.18&port=443&secret=eecad61c6d50bf90c6c756f68bd926989b766b2e636f6d
+tg://proxy?server=89.22.236.159&port=443&secret=eef838b6a55fa5e8393c63def771cf1014766b2e636f6d
 tg://proxy?server=amoreszi.duckdns.org&port=443&secret=7uZ0yg4fr7vIQ5i_MUfeWQB3d3cuYXBwbGUuY29t
 tg://proxy?server=dns.vdl.lat&port=853&secret=ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275
 tg://proxy?server=dot.vdl.lat&port=853&secret=ee9963ec50cf89d852bb1e084a44b196e4646f742e76646c2e6c6174
-tg://proxy?server=elevenproxy.pro&port=444&secret=aa1234567890abcdef1234567890abcd
 tg://proxy?server=hotmtpro.duckdns.org&port=443&secret=7u-wXMxodyqALbbZW3bovVF3d3cuYW1hem9uLmNvbQ
 tg://proxy?server=live.russia.mambabot.net&port=7866&secret=ee843223f372ef32e718c5271b5580714c6d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=new.tproxy.rest&port=8443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=perfect.nolags.pw&port=443&secret=dd4658543dd0973d78171da4552480fd23
 tg://proxy?server=proxymtproto.tproxy.rest&port=8443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-tg://proxy?server=r19.proxytg.space&port=8443&secret=eea5e937176fb9385a90ee837da1f589aa7231392e70726f787974672e7370616365
-tg://proxy?server=r20.proxytg.space&port=8443&secret=ee882e7f1447939817016bb33afc4fe86c7232302e70726f787974672e7370616365
 tg://proxy?server=r21.proxytg.space&port=8443&secret=eec5963870566a7e0d9a04f5f792d9faf47232312e70726f787974672e7370616365
 tg://proxy?server=r22.proxytg.space&port=8443&secret=eeace5ab7ab128f81a0b16ada143ec10807232322e70726f787974672e7370616365
 tg://proxy?server=r23.proxytg.space&port=8443&secret=eed8f9cb134573d3eff7e4e031965625177232332e70726f787974672e7370616365
 tg://proxy?server=r24.proxytg.space&port=8443&secret=eeade4e42a3bee4969fcb706467380da727232342e70726f787974672e7370616365
+tg://proxy?server=r25.proxytg.space&port=8443&secret=eecc4a140a0d61e4ead7c5fede495c6cd97232352e70726f787974672e7370616365
 tg://proxy?server=russia.nolags.pw&port=443&secret=dd04dbf1f1459ffbc5e646db206794163a
 tg://proxy?server=sosal.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
 tg://proxy?server=vpn.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
