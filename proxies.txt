@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-06-01 20:08 UTC
-# Total: 24
+# Telegram Proxies — updated 2026-06-01 22:55 UTC
+# Total: 25
 
 tg://proxy?server=147.45.68.59&port=443&secret=eeea62717efcf6c6c3beba94b1f8a4166a766b2e636f6d
 tg://proxy?server=150.241.75.150&port=443&secret=ee636c6f7564666c6172652e636f6dcb
@@ -14,6 +14,7 @@ tg://proxy?server=fridayvpn.proxyprosto.sbs&port=443&secret=ee5d7bc000726b1b2973
 tg://proxy?server=fridayvpn1.proxyprosto.sbs&port=443&secret=ee81aebd9867cc45d05974d953706819d177622e7275
 tg://proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=mtp7.sosproxy.space&port=443&secret=ee77eea55483cdb42d81ab76a5ceddc28d64726976652e676f6f676c652e636f6d
+tg://proxy?server=nether.nolags.pw&port=443&secret=dd0ed82c381c8fccacbe15605dec874662
 tg://proxy?server=poll900.mtproxygram.pro&port=853&secret=ee18ccad215fa76f14969bb6da115ed56b62726f777365722e79616e6465782e636f6d
 tg://proxy?server=poll900b1.mtproxygram.pro&port=853&secret=eecb0336ed7f59a2c868cc3083f64c607162726f777365722e79616e6465782e636f6d
 tg://proxy?server=proxy.dreamerlook.ru&port=444&secret=ee00000000000000000000000000000000766b2e636f6d
