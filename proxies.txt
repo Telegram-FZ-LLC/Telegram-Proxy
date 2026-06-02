@@ -1,22 +1,22 @@
-# Telegram Proxies — updated 2026-06-02 14:42 UTC
-# Total: 24
+# Telegram Proxies — updated 2026-06-02 18:31 UTC
+# Total: 23
 
 tg://proxy?server=186.246.17.187&port=443&secret=ee5718cb5aee68c3e0c238002cdbace143706574726f766963682e7275
 tg://proxy?server=50.114.102.134&port=443&secret=dd723f44bd19ff50a431878c6b2d0b46a0
+tg://proxy?server=65.109.245.52&port=7980&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=bebebe.flowstreamhub.site&port=8443&secret=ee946d6bcda5ca73247aee8016c3a10e0e6265626562652e666c6f7773747265616d6875622e73697465
+tg://proxy?server=big2.mtproxygram.lol&port=853&secret=ee60ff1261786c2cfe88dec67ba0348e1462726f777365722e79616e6465782e636f6d
+tg://proxy?server=big3.mtproxygram.lol&port=853&secret=ee9909e7aa6bc62461a0b60f33af14a68462726f777365722e79616e6465782e636f6d
 tg://proxy?server=dns.vdl.lat&port=853&secret=ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275
 tg://proxy?server=dot.vdl.lat&port=853&secret=ee9963ec50cf89d852bb1e084a44b196e4646f742e76646c2e6c6174
 tg://proxy?server=eboybey.flowaccess.site&port=8443&secret=ee1a3341522f265448a11cbb608f42166f65626f796265792e666c6f776163636573732e73697465
-tg://proxy?server=ether.nolags.pw&port=443&secret=dd86e17c6a253f59eac4b4909095ba3019
 tg://proxy?server=gert51.mtproxygram.pro&port=853&secret=eee10b50be5aa40f96fbec7937a06f3fcc62726f777365722e79616e6465782e636f6d
 tg://proxy?server=kut12.mtproxygram.pro&port=853&secret=eea3ca58d8b2b643f3ad10ebc94303ab8562726f777365722e79616e6465782e636f6d
 tg://proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=mtp8.sosproxy.space&port=443&secret=eee9dab8aa5e5ede020088b669a17b907864726976652e676f6f676c652e636f6d
 tg://proxy?server=nether.nolags.pw&port=443&secret=dd0ed82c381c8fccacbe15605dec874662
-tg://proxy?server=poll900.mtproxygram.pro&port=853&secret=ee18ccad215fa76f14969bb6da115ed56b62726f777365722e79616e6465782e636f6d
-tg://proxy?server=poll900b1.mtproxygram.pro&port=853&secret=eecb0336ed7f59a2c868cc3083f64c607162726f777365722e79616e6465782e636f6d
+tg://proxy?server=nolags.quickrouteapp.xyz&port=8443&secret=ee6220eec9be6b790ee969f86c6c7baaa46e6f6c6167732e717569636b726f7574656170702e78797a
 tg://proxy?server=r39.proxytg.space&port=8443&secret=eeda4e9c22fd9b2dcf174ceb3beef08a2d7233392e70726f787974672e7370616365
-tg://proxy?server=r43.proxytg.space&port=8443&secret=ee53e5dc51c0bc1af6f2e26c8462f60f2f7234332e70726f787974672e7370616365
 tg://proxy?server=r44.proxytg.space&port=8443&secret=eebf7b9e22c9202130923254db55f17ed07234342e70726f787974672e7370616365
 tg://proxy?server=rf.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275
 tg://proxy?server=rkn.quickrouteapp.xyz&port=8443&secret=eeae82b9fd491e0fde6eb677e47099729b726b6e2e717569636b726f7574656170702e78797a
@@ -24,4 +24,3 @@ tg://proxy?server=rus.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5
 tg://proxy?server=trump.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
 tg://proxy?server=tuesday.nolags.pw&port=443&secret=dd3e7613f9676439cd5f056828ef716da6
 tg://proxy?server=wb.flowaccess.site&port=8443&secret=ee2fcc64ad41fc313d96fb8cb686e5620677622e666c6f776163636573732e73697465
-tg://proxy?server=www.minetor.co.uk&port=443&secret=ee104462821249bd7ac519130220c25d09
