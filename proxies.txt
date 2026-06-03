@@ -1,14 +1,13 @@
-# Telegram Proxies — updated 2026-06-03 08:05 UTC
+# Telegram Proxies — updated 2026-06-03 13:06 UTC
 # Total: 29
 
+tg://proxy?server=159-69-100-158.nip.io&port=443&secret=8O6wvZrcT9SpOZTuOyohaw%3D%3D
 tg://proxy?server=161.97.167.251&port=443&secret=eec14b841016ce9b05f48e9ed7f2d9de9e676f6f676c65617069732e636f6d
 tg://proxy?server=161.97.169.231&port=443&secret=eecfcd09956992b6d4dd0bf6aa2a8f63cd676f6f676c65617069732e636f6d
 tg://proxy?server=186.246.17.187&port=443&secret=ee5718cb5aee68c3e0c238002cdbace143706574726f766963682e7275
-tg://proxy?server=50.114.102.134&port=443&secret=dd723f44bd19ff50a431878c6b2d0b46a0
 tg://proxy?server=51.250.105.29&port=443&secret=eeac09153b446e946a1b59a29df9ca6020617669746f2e7275
 tg://proxy?server=65.109.245.52&port=7980&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=84.252.139.115&port=443&secret=eefea62269225a14fac3c9e8c7ba6205fe617669746f2e7275
-tg://proxy?server=bebebe.flowstreamhub.site&port=8443&secret=ee946d6bcda5ca73247aee8016c3a10e0e6265626562652e666c6f7773747265616d6875622e73697465
 tg://proxy?server=big2.mtproxygram.lol&port=853&secret=ee60ff1261786c2cfe88dec67ba0348e1462726f777365722e79616e6465782e636f6d
 tg://proxy?server=big3.mtproxygram.lol&port=853&secret=ee9909e7aa6bc62461a0b60f33af14a68462726f777365722e79616e6465782e636f6d
 tg://proxy?server=byebyerkn.flowstreamhub.site&port=8443&secret=ee3fc2d76c0ccce856e812748d56c458dd627965627965726b6e2e666c6f7773747265616d6875622e73697465
@@ -16,17 +15,18 @@ tg://proxy?server=comet.quickrouteapp.xyz&port=8443&secret=ee6af7e9e830f53cc4f18
 tg://proxy?server=dns.vdl.lat&port=853&secret=ee534adcf23a16f425cbae129c4cb574cb6164732e78352e7275
 tg://proxy?server=dot.vdl.lat&port=853&secret=ee9963ec50cf89d852bb1e084a44b196e4646f742e76646c2e6c6174
 tg://proxy?server=eboybey.flowaccess.site&port=8443&secret=ee1a3341522f265448a11cbb608f42166f65626f796265792e666c6f776163636573732e73697465
+tg://proxy?server=euufo1o5.helper.website&port=443&secret=eebb62e9f3ae0f40aa25a70c150f6d68d3636c6f7564666c6172652e636f6d
 tg://proxy?server=fast.quickrouteapp.xyz&port=8443&secret=ee80aa4a3c8b88e873af8b323a6c485efa666173742e717569636b726f7574656170702e78797a
-tg://proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
-tg://proxy?server=gert51.mtproxygram.pro&port=853&secret=eee10b50be5aa40f96fbec7937a06f3fcc62726f777365722e79616e6465782e636f6d
-tg://proxy?server=kut12.mtproxygram.pro&port=853&secret=eea3ca58d8b2b643f3ad10ebc94303ab8562726f777365722e79616e6465782e636f6d
-tg://proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=moon.nolags.pw&port=443&secret=dd2c611b53a9c82f662081daed93cc3cb3
 tg://proxy?server=nolags.quickrouteapp.xyz&port=8443&secret=ee6220eec9be6b790ee969f86c6c7baaa46e6f6c6167732e717569636b726f7574656170702e78797a
+tg://proxy?server=rapid.flowstreamhub.site&port=8443&secret=ee10a576008fd642b6e0427f9b2b22447f72617069642e666c6f7773747265616d6875622e73697465
 tg://proxy?server=rf.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275
 tg://proxy?server=rkn.quickrouteapp.xyz&port=8443&secret=eeae82b9fd491e0fde6eb677e47099729b726b6e2e717569636b726f7574656170702e78797a
 tg://proxy?server=rus.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275
+tg://proxy?server=some.nolags.pw&port=443&secret=ddc63eab2c309e7915a09622cedc7c9a7d
+tg://proxy?server=swift.quickrouteapp.xyz&port=8443&secret=ee68a56bf93ff9c02daa862d3830de722773776966742e717569636b726f7574656170702e78797a
 tg://proxy?server=tele.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
 tg://proxy?server=trump.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
-tg://proxy?server=tuesday.nolags.pw&port=443&secret=dd3e7613f9676439cd5f056828ef716da6
 tg://proxy?server=wb.flowaccess.site&port=8443&secret=ee2fcc64ad41fc313d96fb8cb686e5620677622e666c6f776163636573732e73697465
+tg://proxy?server=ytrw134-1.mtproxygram.lol&port=853&secret=ee44d2e25cbb26272ed5fd03eaf805c5f262726f777365722e79616e6465782e636f6d
+tg://proxy?server=ytrw134-3.mtproxygram.lol&port=853&secret=ee45ead68ca4fedbde7378f17707ff5da162726f777365722e79616e6465782e636f6d
