@@ -1,17 +1,19 @@
-# Telegram Proxies — updated 2026-06-04 19:12 UTC
-# Total: 24
+# Telegram Proxies — updated 2026-06-04 21:23 UTC
+# Total: 23
 
-tg://proxy?server=186.246.19.134&port=443&secret=ee17867c11b83c2c36a3de356743602b2c617669746f2e7275
 tg://proxy?server=31.76.39.36&port=443&secret=ee2dd3624aeb4b6a454407bff0a49f682d617669746f2e7275
+tg://proxy?server=31.76.39.36&port=443&secret=eeed5518514cf40187d905c5b7c9e4d595617669746f2e7275
+tg://proxy?server=51.250.32.76&port=443&secret=ee5636d7729d8726e81dbc5c3388b73549617669746f2e7275
 tg://proxy?server=65.109.254.108&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-tg://proxy?server=72.56.41.220&port=443&secret=eec11798ab008831b474066c9e1ebf5c63617669746f2e7275
 tg://proxy?server=89.125.49.250&port=443&secret=eeb40eda3c7b6561f0ef22eb54b49eacf477622e7275
 tg://proxy?server=95.217.222.227&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=api.my-miner.info.&port=8443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 tg://proxy?server=boost.flowstreamhub.site&port=8443&secret=ee7ee0a641b78ecc8d210e47981904a50a626f6f73742e666c6f7773747265616d6875622e73697465
 tg://proxy?server=durov.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
 tg://proxy?server=fresh-c.gamelande.info.&port=25565&secret=ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d
+tg://proxy?server=ghtash.co.uk&port=9965&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=jet.quickrouteapp.xyz&port=8443&secret=eeedca657d767c71c26de484e74182c3076a65742e717569636b726f7574656170702e78797a
+tg://proxy?server=london.nolags.pw&port=443&secret=dd6fe89c6d1f5f8b54afc931cf4f640b91
 tg://proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=promo.dealer.ac&port=443&secret=ee6aa3b7302162fefaffdcfafa34ab94ba7477656e7475722e636f6d
 tg://proxy?server=pulse.flowstreamhub.site&port=8443&secret=ee993b027bf939e8b65e48c633930c8b6770756c73652e666c6f7773747265616d6875622e73697465
@@ -19,9 +21,6 @@ tg://proxy?server=spain.nolags.pw&port=443&secret=ddda11050e6e98fb151d0094b549b0
 tg://proxy?server=starsvpn.obhod.fun&port=6443&secret=76706e76706e76706e76706e76706e76
 tg://proxy?server=surf.flowaccess.site&port=8443&secret=eeea26c2508652bcbd35ac3116045eb939737572662e666c6f776163636573732e73697465
 tg://proxy?server=turbo.quickrouteapp.xyz&port=8443&secret=ee7e87773423c90bb0792a4e005f54119d747572626f2e717569636b726f7574656170702e78797a
-tg://proxy?server=turbo2proxy.vpnproxy.cc&port=8443&secret=ee56af68a36d94c4d47d100196d6a59f1d747572626f3270726f78792e76706e70726f78792e6363
 tg://proxy?server=turbovpn.obhod.fun&port=9443&secret=76706e76706e76706e76706e76706e76
 tg://proxy?server=warsaw.nolags.pw&port=443&secret=dd68c2ee708b2e88d8d12802479d4d5026
 tg://proxy?server=wave.flowaccess.site&port=8443&secret=eeea2f80ea6628006a3db2a8678d65bd07776176652e666c6f776163636573732e73697465
-tg://proxy?server=web.my-miner.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D
-tg://proxy?server=www.alo-otp.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
