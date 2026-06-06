@@ -1,27 +1,28 @@
-# Telegram Proxies — updated 2026-06-06 09:18 UTC
-# Total: 24
+# Telegram Proxies — updated 2026-06-06 11:16 UTC
+# Total: 25
 
 tg://proxy?server=157.180.122.162&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=159.69.100.158&port=443&secret=f0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=178.105.226.11&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=178.105.232.49&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=51.250.68.27&port=443&secret=ee10dcdfea7fbd6d3d654d2262bb054000617669746f2e7275
-tg://proxy?server=51.250.82.46&port=443&secret=ee2147d08d35506c24aad6bd92df99e44e617669746f2e7275
 tg://proxy?server=65.109.245.52&port=7980&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-tg://proxy?server=65.109.254.108&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+tg://proxy?server=84.32.189.74&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=blaze.flowaccess.site&port=443&secret=eec799e0af5c33d8ffc2310d4f0154379c626c617a652e666c6f776163636573732e73697465
 tg://proxy?server=cdn.proxyonline.online&port=8443&secret=eea4f3b8de32f62e5ba0e44cea5465930063646e2e70726f78796f6e6c696e652e6f6e6c696e65
 tg://proxy?server=connect.arixo.shop&port=443&secret=ee3ccfb5178a6607b7e3818dc4dc9813fa617669746f2e7275
-tg://proxy?server=connect.arixo.shop&port=443&secret=ee46636c0c3ff70a1d97ff70bb96ecd6ce617669746f2e7275
 tg://proxy?server=fast.proxytelega.store&port=8443&secret=ee3d75d4605342be40f01e37f606946e81666173742e70726f787974656c6567612e73746f7265
 tg://proxy?server=flash.quickrouteapp.xyz&port=443&secret=eec7b876f355b93b6b786cb4b6c9daee79666c6173682e717569636b726f7574656170702e78797a
 tg://proxy?server=ghtash.co.uk&port=9965&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=highspeed.nolags.pw&port=443&secret=dd6e87000d80db522523b5ab5bb58ab3af
-tg://proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
-tg://proxy?server=mt.nowaboost.com&port=853&secret=4fd95a487c5c87ae82b6639a9b6b5ff2
+tg://proxy?server=light.nolags.pw&port=443&secret=dd84b5a5dbe775244bd0b061c72f4e4c73
+tg://proxy?server=moh.kingproxynewdomailasiatech.ink&port=25565&secret=FgMBAgABAAH8AxOG4kw63Q
 tg://proxy?server=post.my-miner.info.&port=8443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 tg://proxy?server=rkn.proxytelega.store&port=8443&secret=eeec48b14805acf33a64f494fe7cf6656a726b6e2e70726f787974656c6567612e73746f7265
 tg://proxy?server=rocket.flowaccess.site&port=443&secret=ee03d3d1b9bda832390669bc06167720d8726f636b65742e666c6f776163636573732e73697465
+tg://proxy?server=russia.arixo.shop&port=443&secret=eed015b7c384e8023672d5355b0bb6e531617669746f2e7275
 tg://proxy?server=russia.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
+tg://proxy?server=russia.chunkycorp.shop&port=443&secret=eef7fa42938dc7150beba27c0cc0df2f1d617669746f2e7275
 tg://proxy?server=second.nolags.pw&port=443&secret=ddf4fa8f92de56cde758429546586eaac8
 tg://proxy?server=sonic.quickrouteapp.xyz&port=443&secret=eebd8b54149182b64d403ef9c5141fc3ee736f6e69632e717569636b726f7574656170702e78797a
+tg://proxy?server=www.alp-drtop.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
