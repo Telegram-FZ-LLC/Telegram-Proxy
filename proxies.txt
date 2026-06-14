@@ -1,8 +1,8 @@
-# Telegram Proxies — updated 2026-06-14 19:07 UTC
-# Total: 36
+# Telegram Proxies — updated 2026-06-14 20:58 UTC
+# Total: 33
 
-tg://proxy?server=167.233.54.153&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=176.65.128.63&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://proxy?server=176.65.135.69&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=65.108.126.206&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=Ehsgh.kon.khoshgele.ir.biobarmesh.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=For.dear-iranian-people.com.heazshddd.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
@@ -19,20 +19,17 @@ tg://proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac51913
 tg://proxy?server=get.proxyz.site&port=443&secret=ee8bfeb37ebe59a0f6aed1ccae9b9981566765742e70726f78797a2e73697465
 tg://proxy?server=go.proxyz.site&port=443&secret=ee36854d344477eab338dda799b071116b676f2e70726f78797a2e73697465
 tg://proxy?server=goo.vingardium.co.uk.&port=8443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-tg://proxy?server=hub.nowabst.net&port=853&secret=ee55aabc9752a9d9d379e02943cf8117956164732e78352e7275
 tg://proxy?server=hub.proxyvpn.site&port=443&secret=ee7f6d6d39e09f3578784d72946dae50cc6875622e70726f787976706e2e73697465
 tg://proxy?server=irancell-mci.ir.gybshdjls.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
-tg://proxy?server=live.proxyvpn.site&port=443&secret=eed2430edff0d3fc503099f982282bd0066c6976652e70726f787976706e2e73697465
 tg://proxy?server=moh.kingproxynewdomailasiatech.ink&port=25565&secret=FgMBAgABAAH8AxOG4kw63Q
-tg://proxy?server=mt.nowabst.net&port=853&secret=7hKJP_0gRM7NMRBO3AKn5VhhZHMueDUucnU
 tg://proxy?server=mx.proxyz.site&port=443&secret=ee76166fbf55209edbcfbe009bcc16f4646d782e70726f78797a2e73697465
-tg://proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275
+tg://proxy?server=my.proxyz.site&port=443&secret=ee0a9ab2b66d72b6797fa11106f55707056d792e70726f78797a2e73697465
 tg://proxy?server=node.prx.today&port=443&secret=ee4fc23f27cad414e0ca758692e060323a6e6f64652e7072782e746f646179
 tg://proxy?server=ns.proxyz.site&port=443&secret=ee45e7845ee5a032aa5ccf1915270d18016e732e70726f78797a2e73697465
-tg://proxy?server=play.proxyvpn.site&port=443&secret=ee4d0c82ca73f261e6933ec36e5d902ff6706c61792e70726f787976706e2e73697465
+tg://proxy?server=onyx.proxytg.live&port=443&secret=ee8e4bd7b2a034418fd924aeed3c97cd7b6f6e79782e70726f787974672e6c697665
 tg://proxy?server=proxy.speedbreaker.info&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-tg://proxy?server=relay.nowabst.net&port=853&secret=ee19f4ad26c65891fd22cf3b7a59f0d1036164732e78352e7275
 tg://proxy?server=relay.prx.today&port=443&secret=eec68955d36d7f04a4ad1b6b0e82c7baeb72656c61792e7072782e746f646179
+tg://proxy?server=secure.proxyz.site&port=443&secret=ee6971f00b20112546804a9453a1a13fde7365637572652e70726f78797a2e73697465
 tg://proxy?server=static.prxtoday.store&port=443&secret=ee3740849efd941157c45810d974fd66097374617469632e707278746f6461792e73746f7265
 tg://proxy?server=sync.proxyvpn.site&port=443&secret=eeb9c7994a075883f404453b50e306f9cf73796e632e70726f787976706e2e73697465
 tg://proxy?server=vpn.prxtoday.store&port=443&secret=ee29260362b2497c092e631593a534e5a376706e2e707278746f6461792e73746f7265
