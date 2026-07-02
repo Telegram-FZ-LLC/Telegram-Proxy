@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-07-01 23:01 UTC
-# Total: 34
+# Telegram Proxies — updated 2026-07-02 02:11 UTC
+# Total: 35
 
 tg://proxy?server=144.31.25.179&port=5223&secret=7uao3_adb96sOIzKbSDMtEJ3d3cuYXBwbGUuY29t
 tg://proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
@@ -10,11 +10,11 @@ tg://proxy?server=68.209.57.138&port=443&secret=ee1603010200010001fc030386e24c3a
 tg://proxy?server=91.107.160.196&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=Amir-ghalenoei-gq.ir.yfdhjderkig.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=ad3.arixo.shop&port=443&secret=ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70
-tg://proxy?server=allah-akbar.ir.zydgjdinc.info.&port=443&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=b8rta.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=basic.here-funnycloud.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=best-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=cloud.neoqua.pro&port=443&secret=ee4c40bfc1c32022e21d85e597be8652f7636c6f75642e6e656f7175612e70726f
+tg://proxy?server=degori.ir.jhsdkhsds.info.&port=443&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=ftp.asiaadomainsshatelhamrahaval.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D
 tg://proxy?server=ftp.jinxandjack.co.uk.&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==
@@ -35,3 +35,4 @@ tg://proxy?server=super.sub-ploter.co.uk&port=25565&secret=ee1603010200010001fc0
 tg://proxy?server=tanzibjf.club.&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=webhook.darkmoon.ir.&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==
 tg://proxy?server=webhook.what-ever.co.uk.&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ==
+tg://proxy?server=zagros.ir.ghsisncbv.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d
