@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-07-05 23:56 UTC
+# Telegram Proxies — updated 2026-07-06 02:30 UTC
 # Total: 37
 
 tg://proxy?server=253371e8.etherealvpn.uk&port=443&secret=eee2c4f26e0246dea5eb84f95c325ea46062343233353730312e657468657265616c76706e2e756b
