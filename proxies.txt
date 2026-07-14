@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-07-14 22:45 UTC
+# Telegram Proxies — updated 2026-07-14 23:41 UTC
 # Total: 48
 
 tg://proxy?server=015770b0.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70
