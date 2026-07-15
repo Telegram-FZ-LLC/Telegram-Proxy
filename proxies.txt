@@ -1,13 +1,14 @@
-# Telegram Proxies — updated 2026-07-15 01:21 UTC
-# Total: 48
+# Telegram Proxies — updated 2026-07-15 04:40 UTC
+# Total: 50
 
 tg://proxy?server=015770b0.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70
 tg://proxy?server=268f1163.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70
 tg://proxy?server=34.155.208.53&port=443&secret=dd2e1690137bb26b69718db2b71bb5ae8a
-tg://proxy?server=65.21.83.228&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70
 tg://proxy?server=ad3.arixo.shop&port=443&secret=ee722fba8d97b9027b5fc4deb041b290cb6164332e617269786f2e73686f70
 tg://proxy?server=adieu.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=api.groundfloorsolutions.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 tg://proxy?server=app.librava.click&port=443&secret=ee2dc3787049f48776ee28090e513c22526170702e6c6962726176612e636c69636b
 tg://proxy?server=b2c591e7.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70
@@ -19,6 +20,7 @@ tg://proxy?server=br8ta.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216
 tg://proxy?server=c46eadf5.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70
 tg://proxy?server=cloud.neoqua.pro&port=443&secret=ee4c40bfc1c32022e21d85e597be8652f7636c6f75642e6e656f7175612e70726f
 tg://proxy?server=edge.librava.click&port=443&secret=eeba0c58ad3c74e7486821f7c0e26f9ef7656467652e6c6962726176612e636c69636b
+tg://proxy?server=edge1.guardora.pro&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f
 tg://proxy?server=edge4.guardora.pro&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f
 tg://proxy?server=fas8t.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
