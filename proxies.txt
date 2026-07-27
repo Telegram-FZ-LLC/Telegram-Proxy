@@ -1,9 +1,8 @@
-# Telegram Proxies — updated 2026-07-27 21:01 UTC
-# Total: 40
+# Telegram Proxies — updated 2026-07-27 22:51 UTC
+# Total: 39
 
 tg://proxy?server=168.119.161.251&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=84.201.161.56&port=443&secret=ee949b2f2741c1b1ebfa03e363547350167777772e6d6963726f736f66742e636f6d
-tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=New.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=New1.ugtd8sxxcyt.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70
@@ -24,10 +23,10 @@ tg://proxy?server=fleethop.online&port=443&secret=eed82e9162b09c2ddfdbe3ddfe7d28
 tg://proxy?server=go.pelmeshka.top&port=443&secret=eeaa6a6fdb00cbaf8a0c257e6736ece98f676f2e70656c6d6573686b612e746f70
 tg://proxy?server=googel.alo-otp.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=heats.nolags.pw&port=443&secret=dd3df51afd9a851e5b9a6719fc88f93833
+tg://proxy?server=jadide.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=lazeyka-2-6.getvelora.space&port=443&secret=ee8a085f4b74b7698d5873d2e587c4f22d6f7a6f6e2e7275
 tg://proxy?server=medblock.fit&port=443&secret=ee8a3ea77a695f1a249d693078446a137a6d6564626c6f636b2e666974
 tg://proxy?server=medblock.ink&port=443&secret=ee48995b34487bfb1cb562552a585da0ea6d6564626c6f636b2e696e6b
-tg://proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=motasel.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=neo-vpn.ink&port=443&secret=ee0581778381eb30c9f9403b6178b212c46e656f2d76706e2e696e6b
 tg://proxy?server=pathory.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
