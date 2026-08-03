@@ -1,42 +1,46 @@
-# Telegram Proxies — updated 2026-08-03 09:19 UTC
-# Total: 39
+# Telegram Proxies — updated 2026-08-03 12:48 UTC
+# Total: 43
 
 tg://proxy?server=103.161.35.23&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=135.181.129.178&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-tg://proxy?server=138.124.113.201&port=443&secret=ee3aff3c6ac00f9a9b6bfe90449249953f636c6f7564666c6172652e636f6d
 tg://proxy?server=95.217.193.223&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://proxy?server=Empire-persia.iran.hey-gardash.info.&port=1080&secret=79e344818749bd7ac519130220c25d09
+tg://proxy?server=Mohsen.mtprotonewniceasiashatel.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70
 tg://proxy?server=ad1.fluxvpnguard.ru&port=443&secret=eef783c9e53b90b92a084bb3e50e028baa6164312e666c757876706e67756172642e7275
 tg://proxy?server=ad2.arixo.shop&port=443&secret=eed09b88cbbd4e744865b890e5a0bd26876164322e617269786f2e73686f70
+tg://proxy?server=ad2.fluxvpnguard.ru&port=443&secret=ee4f43452511fc19da8a32ad7a3f0530e46164322e666c757876706e67756172642e7275
+tg://proxy?server=ad3.fluxvpnguard.ru&port=443&secret=ee1a23dbc042a9ad90a7ef4e5a4f04e1486164332e666c757876706e67756172642e7275
 tg://proxy?server=ad4.arixo.shop&port=443&secret=eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70
 tg://proxy?server=ad4.fluxvpnguard.ru&port=443&secret=ee0c002a9452cc7922f86bf4bfaa6b1a8d6164342e666c757876706e67756172642e7275
+tg://proxy?server=ad5.arixo.shop&port=443&secret=ee995469d4d5a3221f69a1cc24d1cafa506164322e617269786f2e73686f70
+tg://proxy?server=aerie.sosun4ik.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d
-tg://proxy?server=bastani.mikham.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=beest-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=bo9ss.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=br8ta.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-tg://proxy?server=cdn.kvakzon.top&port=443&secret=ee8c9511c54296c007462dfa294a6130b363646e2e6b76616b7a6f6e2e746f70
-tg://proxy?server=chai.mikham.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=data.savelyev.click&port=443&secret=ee4a2d96b1f28e7ceb3ca477c79fc54f8f646174612e736176656c7965762e636c69636b
 tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
 tg://proxy?server=feed.fast-proxy.ink&port=443&secret=ee3001f44afccd358abf35cf2bebf2b50f666565642e666173742d70726f78792e696e6b
+tg://proxy?server=flux.balalaika.click&port=443&secret=ee6a7f849183817e1361401fb9de32bd35666c75782e62616c616c61696b612e636c69636b
+tg://proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=hide.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=hub.savelyev.click&port=443&secret=ee609a2ad7e277c6eb2dd39767e12777b86875622e736176656c7965762e636c69636b
 tg://proxy?server=lab.nowabst.net&port=853&secret=eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d
 tg://proxy?server=live.gorbushkin.click&port=443&secret=eec85666282a2a3091eb56c31302da3c9f6c6976652e676f72627573686b696e2e636c69636b
 tg://proxy?server=main.muffinnoliershatelcomingsoon.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D
-tg://proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
-tg://proxy?server=mirror.balalaika.click&port=443&secret=eea0398370ab267aa0164231325beb48866d6972726f722e62616c616c61696b612e636c69636b
-tg://proxy?server=net.antitspu.com&port=443&secret=ee24918e3782cee00f652c0018f2867ffd6e65742e616e7469747370752e636f6d
 tg://proxy?server=opeenhostings.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-tg://proxy?server=proxy.garden-troll.life&port=443&secret=ee44e44615787238844c492fb9e94eebc370726f78792e67617264656e2d74726f6c6c2e6c696665
+tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=relay2.best-proxy.ink&port=443&secret=eee751f2db32edcfc86330057749a3ab9472656c6179322e626573742d70726f78792e696e6b
 tg://proxy?server=relaywise.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=rudomain.info.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-tg://proxy?server=s010.neo-trading.org&port=443&secret=ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275
 tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=skein.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=srv.savelyev.click&port=443&secret=ee966bd27e82ca84e00f7dcf1eecd7237c7372762e736176656c7965762e636c69636b
+tg://proxy?server=storm.gorbushkin.click&port=443&secret=eeaa87b45b1b713023db2c57c90ac9e1d173746f726d2e676f72627573686b696e2e636c69636b
+tg://proxy?server=surge.antitspu.com&port=443&secret=ee685550b95ea37738b83fc880bc93493473757267652e616e7469747370752e636f6d
 tg://proxy?server=sync.savelyev.click&port=443&secret=ee6b56378bbf49f5bd8552fa1e9d63bab773796e632e736176656c7965762e636c69636b
 tg://proxy?server=uploi1on.ir&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=view.fleethop.online&port=443&secret=ee05a819f41fd784d0a3ad0f67013fb7a9766965772e666c656574686f702e6f6e6c696e65
+tg://proxy?server=wave.savelyev.click&port=443&secret=eeba2e1341a08483c2cede6818498348ff776176652e736176656c7965762e636c69636b
 tg://proxy?server=zon-b0z.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
