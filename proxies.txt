@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-08-04 00:02 UTC
+# Telegram Proxies — updated 2026-08-04 03:57 UTC
 # Total: 42
 
 tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
