@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-08-05 12:46 UTC
+# Telegram Proxies — updated 2026-08-05 15:06 UTC
 # Total: 34
 
 tg://proxy?server=167-233-163-149.nip.io&port=443&secret=ee93bd45ba1c67dd629f27c65c2a222ca1646967696b616c612e636f6d
@@ -14,8 +14,8 @@ tg://proxy?server=ad3.arixo.shop&port=443&secret=ee722fba8d97b9027b5fc4deb041b29
 tg://proxy?server=ad4.arixo.shop&port=443&secret=eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70
 tg://proxy?server=adieu.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d
+tg://proxy?server=beest-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=bezan-roo.connectina.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
-tg://proxy?server=blond.basicscotch.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=br.nowabst.net&port=443&secret=eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d
 tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
 tg://proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
@@ -28,9 +28,9 @@ tg://proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac51
 tg://proxy?server=media1.happtg.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
 tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
 tg://proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
+tg://proxy?server=opeenhostings.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=petrichor.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275
-tg://proxy?server=s03.neo-trading.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
 tg://proxy?server=siri.rhymeslive.online&port=443&secret=ddaed7c30ad0cf4a3cd27eca1a649de5d2
 tg://proxy?server=sisu.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=srv.savelyev.click&port=443&secret=ee966bd27e82ca84e00f7dcf1eecd7237c7372762e736176656c7965762e636c69636b
