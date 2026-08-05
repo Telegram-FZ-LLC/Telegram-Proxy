@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-08-04 23:53 UTC
+# Telegram Proxies — updated 2026-08-05 01:39 UTC
 # Total: 30
 
 tg://proxy?server=194.120.230.26&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
@@ -21,10 +21,10 @@ tg://proxy?server=lazeyka-6.getvelora.space&port=443&secret=ee46da8bea792f6be81e
 tg://proxy?server=logs.jinxandjack.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 tg://proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=medblock.ink&port=443&secret=ee48995b34487bfb1cb562552a585da0ea6d6564626c6f636b2e696e6b
+tg://proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=opeenhostings.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275
-tg://proxy?server=r1.balebale.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=s03.neo-trading.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
 tg://proxy?server=s1.postpulse.space&port=443&secret=ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70
 tg://proxy?server=sync.savelyev.click&port=443&secret=ee6b56378bbf49f5bd8552fa1e9d63bab773796e632e736176656c7965762e636c69636b
