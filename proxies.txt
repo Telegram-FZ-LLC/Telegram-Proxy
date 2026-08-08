@@ -1,8 +1,8 @@
-# Telegram Proxies — updated 2026-08-08 19:20 UTC
-# Total: 43
+# Telegram Proxies — updated 2026-08-08 20:16 UTC
+# Total: 41
 
+tg://proxy?server=135.181.74.178&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=21.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=65.21.227.204&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=79.137.196.223&port=11443&secret=ee8a160975fad14b21992a65e0db4b7cfa7777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.&port=4443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=Fighter-Man.ir-proxy.Manege-Desktop-For.Co.Im.&port=4443&secret=EERighJJvXrFGRMCIMjdCQ
@@ -11,23 +11,24 @@ tg://proxy?server=M.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk&port=80
 tg://proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-tg://proxy?server=ad5.arixo.shop&port=443&secret=ee995469d4d5a3221f69a1cc24d1cafa506164322e617269786f2e73686f70
 tg://proxy?server=ad6.arixo.shop&port=443&secret=ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70
 tg://proxy?server=adieu.shmelproxy.top&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=beest-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=chelipa.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+tg://proxy?server=data.fast-proxy.ink&port=443&secret=eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b
 tg://proxy?server=delbaz.wrenshire.co.uk&port=9870&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
 tg://proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=googel.alo-otp.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+tg://proxy?server=gw.medblock.ink&port=443&secret=ee41e23c396b97e4e44caaed70ec230b3e67772e6d6564626c6f636b2e696e6b
+tg://proxy?server=live.best-proxy.ink&port=443&secret=eee49c0c36df83f06e456ffbe5b7b3a73c6c6976652e626573742d70726f78792e696e6b
 tg://proxy?server=lwsite.top&port=443&secret=8d4a38291bd244150ccf97f0acac64f8
 tg://proxy?server=lwsite.top&port=443&secret=dafa8248f6c6d8f69241d8bfb1278793
 tg://proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=media1.happtg.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275
 tg://proxy?server=media2.happtg.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
 tg://proxy?server=media3.happtg.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
-tg://proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=mtp1.hlebushek.com&port=443&secret=eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275
 tg://proxy?server=mtp2.hlebushek.com&port=443&secret=ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275
 tg://proxy?server=mtp3.hlebushek.com&port=443&secret=ee49b03637799a40446509a268d99ff91b706574726f766963682e7275
@@ -35,12 +36,9 @@ tg://proxy?server=node.mishkalapy.life&port=443&secret=ee05b1fa1cf5ade2ed4052b16
 tg://proxy?server=noise.hajikalashatelservieshamrahavalcandy.co.uk&port=80&secret=7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ==
 tg://proxy?server=opeenhostings.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=proxy.whiteproxy.baby&port=443&secret=dd7815244840ab293a65f83fc16bb0234e
-tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=relaywise.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=s1.postpulse.space&port=443&secret=ee402900cd57c3daef160c3a2aef80a29c6164312e617269786f2e73686f70
-tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=wisp.slarkfat.icu&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=yundex-pro.cat-beutifull-sirooss.co.im.&port=4443&secret=EERighJJvXrFGRMCIMjdCQ
-tg://proxy?server=zilch.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=zomb0m.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=zon-b0z.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
