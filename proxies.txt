@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-08-14 09:55 UTC
-# Total: 36
+# Telegram Proxies — updated 2026-08-14 10:48 UTC
+# Total: 38
 
 tg://proxy?server=144.31.141.34&port=443&secret=6a13fc062ccc469afedf8299e715faed
 tg://proxy?server=79.137.196.223&port=13443&secret=eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d
@@ -8,10 +8,8 @@ tg://proxy?server=Empire-persia.iran.hey-gardash.info.&port=88&secret=ee0000f00f
 tg://proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-tg://proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70
-tg://proxy?server=beest-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=download.brettanderson.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 tg://proxy?server=ftp.jinxandjack.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 tg://proxy?server=haji.biabala.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
@@ -21,13 +19,13 @@ tg://proxy?server=mashti.biabala.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=media6.happtg.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275
 tg://proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
 tg://proxy?server=media8.happtg.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
+tg://proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564
 tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=opeenhostings.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=portal.malevich7.top&port=443&secret=ee581fe7a67822287a191d54675fa00956706f7274616c2e6d616c6576696368372e746f70
 tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275
-tg://proxy?server=proxyy.startnetwork.shop&port=443&secret=dd2be934a8a9ee10e16397981246715435
+tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=s010.neo-trading.org&port=8443&secret=ee2c46ee89b4f2c79c1d8325d13091e580647a656e2e7275
 tg://proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
 tg://proxy?server=s05.neo-trading.org&port=443&secret=eeecd508d816f611bb329487809f8dac88706574726f766963682e7275
@@ -35,5 +33,9 @@ tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76
 tg://proxy?server=srv.medblock.fit&port=443&secret=eeec4689270e8be04e90051b374792331e7372762e6d6564626c6f636b2e666974
 tg://proxy?server=stable.rkn.lat&port=443&secret=ee63cd87a492fff3595fd75c82d0ec9afa636c6f756463646e2d6d392d362e63646e2e79616e6465782e6e6574
 tg://proxy?server=sync.fleethop.online&port=443&secret=ee5d12530b3304850a75f79585e946b73073796e632e666c656574686f702e6f6e6c696e65
+tg://proxy?server=vetka.v6n.tech&port=443&secret=ee4a6cc3ea1d2fba9f1f6194333b6e6acf7777772e626f6f6b696e672e636f6d
+tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=webhook.vingardium.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 tg://proxy?server=webhook.what-ever.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+tg://proxy?server=welcome.v6n.tech&port=443&secret=ee56b6cceda2b0d2297a75046f8cda124c7777772e626f6f6b696e672e636f6d
+tg://proxy?server=welcome2.v6n.tech&port=443&secret=ee7a29d29b78fc18e2841ad9c38d38c0197777772e626f6f6b696e672e636f6d
