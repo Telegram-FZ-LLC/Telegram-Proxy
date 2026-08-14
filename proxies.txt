@@ -1,5 +1,5 @@
-# Telegram Proxies — updated 2026-08-14 21:15 UTC
-# Total: 45
+# Telegram Proxies — updated 2026-08-14 22:11 UTC
+# Total: 44
 
 tg://proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=65.108.126.199&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
@@ -41,7 +41,6 @@ tg://proxy?server=opeenhostings.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994e
 tg://proxy?server=ops2ops.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=s010.neo-trading.org&port=443&secret=ee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275
-tg://proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d
 tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=whitelist.startnetwork.shop&port=443&secret=ddaa8133d8cd5e986848e2f6119ab126ff
