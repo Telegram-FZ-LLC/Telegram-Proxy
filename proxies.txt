@@ -1,9 +1,10 @@
-# Telegram Proxies — updated 2026-08-16 05:18 UTC
+# Telegram Proxies — updated 2026-08-16 06:21 UTC
 # Total: 36
 
 tg://proxy?server=168.119.142.41&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=65.21.227.204&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://proxy?server=79.137.196.223&port=13443&secret=eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=95.217.193.223&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.&port=4443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=Kingdom-persia.ir.hey-gardash.info.&port=1080&secret=79e344818749bd7ac519130220c25d09
@@ -18,7 +19,6 @@ tg://proxy?server=ethereal11.arixo.shop&port=443&secret=7swu3Hfi5LRpqEMTgICO8f1l
 tg://proxy?server=fast.barhousefarm.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169
 tg://proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=gamerpr.cfd&port=8880&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=googel.alo-otp.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=jeremy.helloworld.surf&port=443&secret=dd5a369539630cf83a6c2a9a9af2c1cd95
 tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65
 tg://proxy?server=lab.nowabst.net&port=853&secret=eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d
