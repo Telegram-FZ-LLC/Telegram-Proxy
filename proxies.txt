@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-08-17 00:38 UTC
+# Telegram Proxies — updated 2026-08-17 02:13 UTC
 # Total: 40
 
 tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
