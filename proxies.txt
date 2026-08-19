@@ -1,21 +1,19 @@
-# Telegram Proxies — updated 2026-08-19 17:17 UTC
+# Telegram Proxies — updated 2026-08-19 18:17 UTC
 # Total: 44
 
 tg://proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=65.108.126.199&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=65.21.205.41&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=65.21.83.248&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-tg://proxy?server=81.29.146.111&port=443&secret=989a221c0b63d18c7eb0a74af07a50ec
 tg://proxy?server=Fast.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-tg://proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=M.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk&port=80&secret=7hbZ3hNtxAbJ6L5BQipx2_std3d3LnlhaG9vLmNvbQ%3D%3D
-tg://proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-tg://proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+tg://proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=admin.valmira.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b
 tg://proxy?server=basic.valmira.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=beam.whitelist.cyou&port=443&secret=ee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75
+tg://proxy?server=beest-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=bfesedv.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275
 tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -36,10 +34,12 @@ tg://proxy?server=mtp3.hlebushek.com&port=443&secret=ee49b03637799a40446509a268d
 tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=node2.medhata.org&port=2443&secret=eeb19b644ed4a6c923d57abf3c7a52d1746e6f6465322e6d6564686174612e6f7267
 tg://proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275
+tg://proxy?server=opeenhostings.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=persian.gulf.ir.olsjddhf.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=rootssh2.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d
 tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275
