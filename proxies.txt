@@ -1,6 +1,7 @@
-# Telegram Proxies — updated 2026-08-22 17:11 UTC
-# Total: 39
+# Telegram Proxies — updated 2026-08-22 18:14 UTC
+# Total: 41
 
+tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=79.137.196.223&port=14443&secret=ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.&port=4443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
@@ -17,15 +18,15 @@ tg://proxy?server=dns.bizonre.co.im.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=ethereal11.arixo.shop&port=443&secret=7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A
 tg://proxy?server=freeconnect.lol&port=443&secret=eef7a565db46f8f5bf156054d86db42969617669746f2e7275
-tg://proxy?server=iran.mr-moo.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
-tg://proxy?server=iran.yhge.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
-tg://proxy?server=irancell-mci-rightell-adsl.pcspeedyfix.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+tg://proxy?server=full-vasl.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169
 tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65
-tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275
 tg://proxy?server=lab.nowabst.net&port=853&secret=eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d
 tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
 tg://proxy?server=megaconnect.click&port=443&secret=ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275
 tg://proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=mtp1.hlebushek.com&port=443&secret=eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275
+tg://proxy?server=mtp2.hlebushek.com&port=443&secret=ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275
+tg://proxy?server=mtp3.hlebushek.com&port=443&secret=ee49b03637799a40446509a268d99ff91b706574726f766963682e7275
 tg://proxy?server=music-alo.ir&port=7980&secret=dd1603010200010001fc030386e24c3add
 tg://proxy?server=naro.guguli.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=node.easyproxy.cfd&port=443&secret=ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664
@@ -37,6 +38,7 @@ tg://proxy?server=relay.rknsosi.shop&port=443&secret=ee93e8816b5fd5c054bc9544270
 tg://proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
 tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=vasl-sho.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D
 tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=web.bizonre.co.im.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275
