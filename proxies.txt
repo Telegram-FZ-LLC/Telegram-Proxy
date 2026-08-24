@@ -1,10 +1,10 @@
-# Telegram Proxies — updated 2026-08-24 11:17 UTC
-# Total: 35
+# Telegram Proxies — updated 2026-08-24 12:25 UTC
+# Total: 36
 
+tg://proxy?server=1.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=21.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=5.223.41.37&port=7980&secret=dd1603010200010001fc030386e24c3add
+tg://proxy?server=31.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=65.108.126.199&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-tg://proxy?server=65.109.248.96&port=443&secret=ddb0cbcef5a486d9636472ac27f8e11a9d
 tg://proxy?server=65.21.83.248&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=79.137.196.223&port=14443&secret=ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=91.107.160.196&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
@@ -22,6 +22,7 @@ tg://proxy?server=beam.whitelist.cyou&port=443&secret=ee96671dab2ecd8b178da5371b
 tg://proxy?server=beest-sellerst.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665
+tg://proxy?server=full-vasl.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169
 tg://proxy?server=gate.24starsmarket.ru&port=443&secret=ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275
 tg://proxy?server=help.joumalanet.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169
 tg://proxy?server=help.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169
@@ -34,5 +35,5 @@ tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34
 tg://proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 tg://proxy?server=support.joumalanet.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169
 tg://proxy?server=support.nettoyou2.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169
-tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d
 tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
+tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275
