@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-09-04 21:08 UTC
+# Telegram Proxies — updated 2026-09-04 23:32 UTC
 # Total: 36
 
 tg://proxy?server=4o.vechnostnet.study&port=443&secret=ee007976c9b1dd0de967bbab8ab6d85f127374726d2e79616e6465782e6e6574
