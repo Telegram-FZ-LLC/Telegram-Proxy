@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-09-05 23:26 UTC
+# Telegram Proxies — updated 2026-09-06 01:51 UTC
 # Total: 41
 
 tg://proxy?server=1.pugfhtrdyted.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
