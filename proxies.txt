@@ -1,9 +1,9 @@
-# Telegram Proxies — updated 2026-09-09 00:50 UTC
+# Telegram Proxies — updated 2026-09-09 05:31 UTC
 # Total: 39
 
-tg://proxy?server=103.161.35.23&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=116.202.189.213&port=8443&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=136.243.195.203&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://proxy?server=65.21.227.198&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://proxy?server=65.21.227.200&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=79.137.196.223&port=12443&secret=eebc63866dd7a052dbd741a691486a82127777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=91.107.140.144&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=Hamrah.mci.ir.pugfhtrdyted.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -13,7 +13,7 @@ tg://proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216
 tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665
 tg://proxy?server=freeconnect.lol&port=443&secret=eef7a565db46f8f5bf156054d86db42969617669746f2e7275
-tg://proxy?server=gc.mtproto.baby&port=443&secret=dd55bd33705487f11397a1a45d8dacdfc6
+tg://proxy?server=gate.24starsmarket.ru&port=443&secret=ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275
 tg://proxy?server=global.lovely.lat&port=443&secret=eeaadd88aa9facd454936d0c42dc128e77676c6f62616c2e6c6f76656c792e6c6174
 tg://proxy?server=hapoo.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -32,6 +32,7 @@ tg://proxy?server=node.easyproxy.cfd&port=443&secret=ee6be95a795ee766da019cd3004
 tg://proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275
 tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=proxtstar.live&port=443&secret=eed21e15e0d7df3d811a11e2accff34eec617669746f2e7275
 tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=relay.rknsosi.shop&port=443&secret=ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70
 tg://proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -39,4 +40,3 @@ tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197
 tg://proxy?server=tare.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=terra.startnetwork.shop&port=443&secret=dd0f2aa66e2419918464ead0544ec65121
 tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=zon-b0z.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
