@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-09-15 23:17 UTC
+# Telegram Proxies — updated 2026-09-16 02:17 UTC
 # Total: 47
 
 tg://proxy?server=30f9e0.mtpfast.com&port=443&secret=ee3452747634e3675ff895e7ff2f1307323330663965302e6d7470666173742e636f6d
