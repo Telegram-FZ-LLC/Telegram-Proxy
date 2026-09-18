@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-09-17 23:14 UTC
+# Telegram Proxies — updated 2026-09-18 02:07 UTC
 # Total: 37
 
 tg://proxy?server=135.181.74.178&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
@@ -15,6 +15,7 @@ tg://proxy?server=cdn10.cdnwave.org&port=443&secret=eeecd508d816f611bb329487809f
 tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
 tg://proxy?server=data.utkanos.life&port=2443&secret=eec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665
 tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=ir.awedsj.info.&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=ir.envytations.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=ir.grasic.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
@@ -26,7 +27,6 @@ tg://proxy?server=media6.happtg.org&port=443&secret=ee7391242569590e01416101927d
 tg://proxy?server=media9.happtg.org&port=443&secret=ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275
 tg://proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=online-iran.ir.awedsj.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d
 tg://proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=relay.surfvpn.app&port=443&secret=eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070
