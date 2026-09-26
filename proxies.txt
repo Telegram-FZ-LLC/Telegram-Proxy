@@ -1,28 +1,30 @@
-# Telegram Proxies — updated 2026-09-26 18:49 UTC
-# Total: 40
+# Telegram Proxies — updated 2026-09-26 21:42 UTC
+# Total: 42
 
 tg://proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=65.21.222.229&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://proxy?server=65.21.234.30&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://proxy?server=94.130.15.206&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://proxy?server=akenai.tg&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 tg://proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=cdn6.cdnwave.org&port=443&secret=ee7391242569590e01416101927d38b565686f66662e7275
 tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e686f66662e7275
 tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=for.dear-iranian-people.com.heazshddd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=full-vasl.ir-xyz.gdhbvjshjrf.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=honar.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=ir.envytations.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=ir.macauley.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-tg://proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
-tg://proxy?server=media6.happtg.org&port=443&secret=ee7391242569590e01416101927d38b565686f66662e7275
 tg://proxy?server=media7.happtg.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e686f66662e7275
 tg://proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=moh1.benzcls.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=moh2.benzcls.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=nasho.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=onlineforless.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -33,7 +35,7 @@ tg://proxy?server=s02.neo-trading.org&port=443&secret=ee6ec9f7e082baf2397b450727
 tg://proxy?server=s03.neo-trading.org&port=443&secret=eeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275
 tg://proxy?server=s04.neo-trading.org&port=443&secret=ee364a7bd5b928139fbc6b2b458e9fef9d686f66662e7275
 tg://proxy?server=s05.neo-trading.org&port=443&secret=eef4f43f6c7b01f2f5f5644af6473a61d0686f66662e7275
-tg://proxy?server=server.syscloudio.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=should.be.wake.up.ir.yfdhjderkig.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
