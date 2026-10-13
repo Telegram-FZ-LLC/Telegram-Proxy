@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-10-12 23:20 UTC
+# Telegram Proxies — updated 2026-10-13 04:29 UTC
 # Total: 32
 
 tg://proxy?server=1.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
