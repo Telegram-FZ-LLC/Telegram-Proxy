@@ -1,4 +1,4 @@
-# Telegram Proxies — updated 2026-10-26 22:04 UTC
+# Telegram Proxies — updated 2026-10-27 01:42 UTC
 # Total: 37
 
 tg://proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
