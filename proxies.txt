@@ -1,35 +1,35 @@
-# Telegram Proxies — updated 2026-11-07 14:40 UTC
+# Telegram Proxies — updated 2026-11-07 19:10 UTC
 # Total: 32
 
 tg://proxy?server=130.210.28.61&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
-tg://proxy?server=164.37.224.216&port=443&secret=ddc62c6006d0a383e80aab9f1b8a233856
-tg://proxy?server=18.216.73.109&port=443&secret=0bc2ca2843411272cace1e4436cd83f1
 tg://proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=78.154.103.41&port=14525&secret=ee57413039fdb20b14e05c0af86bebf7497777772e676f6f676c652e636f6d
+tg://proxy?server=65.21.227.250&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://proxy?server=91.107.140.144&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+tg://proxy?server=91.107.180.53&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 tg://proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+tg://proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=bfesedv.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=dark-rush-85krcymd.expresshost.cloud&port=443&secret=eeebd9fc04e4292071437b21c5fcb3e1556461726b2d727573682d38356b7263796d642e65787072657373686f73742e636c6f7564
 tg://proxy?server=dl.linux-orggv.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=gram.blog&port=853&secret=ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75
-tg://proxy?server=honar.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=ir-ir.goaphrodite.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-tg://proxy?server=ir.brettanderson.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+tg://proxy?server=ir-ir.connectina.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+tg://proxy?server=ir-ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=kasco.alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=m.lumenpost.top&port=443&secret=eeadb7cfebd78712e71db745c9da7281b16d2e6c756d656e706f73742e746f70
-tg://proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=ir.sherlock049.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+tg://proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=mtproxygram.lol&port=853&secret=ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65
 tg://proxy?server=nasho.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=panir.begir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=speed.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=tg.wequ.lat&port=443&secret=0289a13d961b91438fea5069a8097cb3
-tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d
+tg://proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=xenon.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
