@@ -1,37 +1,40 @@
-# Telegram Proxies — updated 2026-11-16 12:14 UTC
-# Total: 34
+# Telegram Proxies — updated 2026-11-16 22:37 UTC
+# Total: 37
 
-tg://proxy?server=176.65.135.69&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-tg://proxy?server=194.120.230.106&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-tg://proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=Strait-of-Hormuz.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+tg://proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 tg://proxy?server=Tond.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+tg://proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=barsik.subaru-volga.com&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
 tg://proxy?server=bia.hastim.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-tg://proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-tg://proxy?server=brookpearl.heronglade.space&port=8443&secret=ee2b60d9fbfb7978842047eb90c50862a0786170692e6f7a6f6e2e7275
-tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=crystal.heronglade.space&port=443&secret=ee2b60d9fbfb7978842047eb90c50862a0706574726f766963682e7275
-tg://proxy?server=dl.linux-orggv.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=birchshore.heronglade.space&port=443&secret=ee2b60d9fbfb7978842047eb90c50862a0706574726f766963682e7275
+tg://proxy?server=e3fand.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=fast.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+tg://proxy?server=freeconnect.lol&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
+tg://proxy?server=gram.blog&port=853&secret=ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75
+tg://proxy?server=gram.proxynet.tech&port=443&secret=ee46a30f9e2a6c81ba8466e5055d3d497a64726976652e676f6f676c652e636f6d
 tg://proxy?server=hamishe.hastim.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=ir-ir.billblog.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=ir.konstruktion.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=ir.lv223.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=ir.peachsoft.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 tg://proxy?server=ir.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+tg://proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=khune.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=mile20.sorrelbay.xyz&port=8443&secret=eee1d528d13649f8288c1ea7898787b486786170692e6f7a6f6e2e7275
-tg://proxy?server=neri21.sorrelbay.xyz&port=443&secret=eee1d528d13649f8288c1ea7898787b486786170692e6f7a6f6e2e7275
-tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=risuto15.kelpmoor.xyz&port=8443&secret=eee1d528d13649f8288c1ea7898787b486617669746f2e7275
-tg://proxy?server=sudega30.ashwren.xyz&port=443&secret=eee1d528d13649f8288c1ea7898787b48662726f777365722e79616e6465782e7275
+tg://proxy?server=kasco.alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=kvas.kemerovo.online&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c
+tg://proxy?server=mtproxygram.lol&port=853&secret=ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65
+tg://proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
+tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=russia.knox-proxy.world&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=skymoon.heronglade.space&port=8443&secret=ee2b60d9fbfb7978842047eb90c50862a0786170692e6f7a6f6e2e7275
+tg://proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-tg://proxy?server=tg.prxtg.top&port=443&secret=ee2d1bb45f31056d1063563fc6e38e5a1064726976652e676f6f676c652e636f6d
-tg://proxy?server=top.fastprx.top&port=443&secret=ee2eaa3efe26957df17447871a78aa19b064726976652e676f6f676c652e636f6d
-tg://proxy?server=ultraproxy.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=tg.getrocket.me&port=443&secret=eef84b5bf22712eba2c12b8c0582237add74672e676574726f636b65742e6d65
+tg://proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65
+tg://proxy?server=w.prxtg.top&port=443&secret=eec15b39b08e586ff58acd45d81178bf1864726976652e676f6f676c652e636f6d
